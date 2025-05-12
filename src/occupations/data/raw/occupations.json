@@ -1,0 +1,249 @@
+{
+    "source": "ANZSCO 2013 (Version 1.3)",
+    "date_scraped": "2025-05-08",
+    "occupations": [
+        {
+            "code": "261311",
+            "title": "Analyst Programmer",
+            "skill_level": "1",
+            "description": "Designs, develops, modifies, documents, tests, implements, installs and supports software applications and systems.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261312",
+            "title": "Developer Programmer",
+            "skill_level": "1",
+            "description": "Interprets specifications, technical designs and flow charts, builds, maintains and modifies the code for software applications.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261313",
+            "title": "Software Engineer",
+            "skill_level": "1",
+            "description": "Designs, develops, modifies, documents, tests, implements, installs and supports software applications and systems.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261399",
+            "title": "Software and Applications Programmers nec",
+            "skill_level": "1",
+            "description": "This occupation group covers Software and Applications Programmers not elsewhere classified.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261111",
+            "title": "ICT Business Analyst",
+            "skill_level": "1",
+            "description": "Identifies and communicates with users to formulate and produce a requirements specification to create system and software solutions.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261112",
+            "title": "Systems Analyst",
+            "skill_level": "1",
+            "description": "Evaluates processes and methods used in existing ICT systems, proposes modifications and additional system components.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261211",
+            "title": "Multimedia Specialist",
+            "skill_level": "1",
+            "description": "Creates and manipulates computer animation, audio, video and graphic image files.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261212",
+            "title": "Web Developer",
+            "skill_level": "1",
+            "description": "Plans, produces and maintains websites using web programming languages, software applications, technologies and databases.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "261399",
+            "title": "Software and Applications Programmers nec",
+            "skill_level": "1",
+            "description": "This occupation group covers Software and Applications Programmers not elsewhere classified.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "263111",
+            "title": "Computer Network and Systems Engineer",
+            "skill_level": "1",
+            "description": "Plans, develops, deploys, tests and optimizes network and system services.",
+            "category": "ICT Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "233512",
+            "title": "Mechanical Engineer",
+            "skill_level": "1",
+            "description": "Plans, designs, organizes and oversees the assembly, erection, operation and maintenance of mechanical and process plant and installations.",
+            "category": "Engineering Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "233513",
+            "title": "Production or Plant Engineer",
+            "skill_level": "1",
+            "description": "Plans, directs and coordinates the design, construction, modification, continued performance and maintenance of equipment and machines in industrial plants.",
+            "category": "Engineering Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "233911",
+            "title": "Aeronautical Engineer",
+            "skill_level": "1",
+            "description": "Performs and supervises engineering work concerned with the design, development, manufacture, maintenance and modification of aircraft for flight.",
+            "category": "Engineering Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "233914",
+            "title": "Software Engineer",
+            "skill_level": "1",
+            "description": "Designs and modifies computer software systems.",
+            "category": "Engineering Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "251511",
+            "title": "Hospital Pharmacist",
+            "skill_level": "1",
+            "description": "Prepares and dispenses pharmaceuticals, drugs and medicines in a hospital pharmacy.",
+            "category": "Health Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "251911",
+            "title": "Health Promotion Officer",
+            "skill_level": "1",
+            "description": "Develops, implements and evaluates health promotion policies and projects using population health, community development and health education principles and methods.",
+            "category": "Health Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "221111",
+            "title": "Accountant (General)",
+            "skill_level": "1",
+            "description": "Plans and provides accounting systems and services relating to taxation and the financial dealings of organizations and individuals.",
+            "category": "Business Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "224711",
+            "title": "Management Consultant",
+            "skill_level": "1",
+            "description": "Assists organizations to achieve greater efficiency and solve organizational problems.",
+            "category": "Business Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "225113",
+            "title": "Marketing Specialist",
+            "skill_level": "1",
+            "description": "Identifies market opportunities and advises on the development, coordination and implementation of marketing strategies.",
+            "category": "Business Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "241111",
+            "title": "Early Childhood Teacher",
+            "skill_level": "1",
+            "description": "Plans, organises and conducts activities to help pre-primary school students to develop a wide variety of skills.",
+            "category": "Education Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "242111",
+            "title": "University Lecturer",
+            "skill_level": "1",
+            "description": "Lectures and conducts tutorials in one or more subjects within a prescribed course of study at a university.",
+            "category": "Education Professionals",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "331111",
+            "title": "Bricklayer",
+            "skill_level": "3",
+            "description": "Lays bricks, pre-cut stone, concrete blocks and other types of building blocks to construct and repair walls, partitions, arches and other structures.",
+            "category": "Trades Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "341111",
+            "title": "Electrician (General)",
+            "skill_level": "3",
+            "description": "Installs, maintains, repairs and tests electrical equipment, wiring and control systems.",
+            "category": "Trades Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "411411",
+            "title": "Enrolled Nurse",
+            "skill_level": "2",
+            "description": "Provides nursing care to patients in various health, aged care and community settings under the supervision of Registered Nurses.",
+            "category": "Healthcare Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "411711",
+            "title": "Community Worker",
+            "skill_level": "2",
+            "description": "Assists individuals, families and groups with social, emotional and financial difficulties to improve quality of life.",
+            "category": "Healthcare Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "351311",
+            "title": "Chef",
+            "skill_level": "2",
+            "description": "Plans and organises the preparation and cooking of food in dining establishments.",
+            "category": "Hospitality Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        },
+        {
+            "code": "431511",
+            "title": "Waiter",
+            "skill_level": "4",
+            "description": "Provides food and beverage service to patrons in restaurants, hotels, clubs, and similar establishments.",
+            "category": "Hospitality Workers",
+            "date_scraped": "2025-05-08",
+            "url": "https://www.abs.gov.au/ausstats/anzsco.nsf"
+        }
+    ]
+}

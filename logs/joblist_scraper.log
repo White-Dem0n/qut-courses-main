@@ -1,0 +1,480 @@
+2025-05-08 04:26:49,862 [INFO] Successfully connected to MongoDB
+2025-05-08 04:26:49,864 [INFO] ====== WebDriver manager ======
+2025-05-08 04:26:52,366 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:26:52,495 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:26:52,609 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 04:26:53,829 [INFO] Successfully initialized Chrome driver
+2025-05-08 04:26:53,829 [INFO] Starting job scraping from https://www.joblist.com/au/search?l=Australia+Plains%2C+SA&lr=ANY_LOCATION
+2025-05-08 04:28:33,632 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:32:34,161 [ERROR] No job listings found
+2025-05-08 04:45:48,394 [INFO] Successfully connected to MongoDB
+2025-05-08 04:45:48,395 [INFO] ====== WebDriver manager ======
+2025-05-08 04:45:50,945 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:45:51,250 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:45:51,361 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 04:45:52,598 [INFO] Successfully initialized Chrome driver
+2025-05-08 04:45:52,598 [INFO] Starting job scraping from https://www.joblist.com/au/search?l=Australia+Plains%2C+SA&lr=ANY_LOCATION
+2025-05-08 04:46:04,248 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:50:04,811 [ERROR] No job listings found
+2025-05-08 04:50:51,313 [INFO] Successfully connected to MongoDB
+2025-05-08 04:50:51,314 [INFO] ====== WebDriver manager ======
+2025-05-08 04:50:53,851 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:50:53,965 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:50:54,073 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 04:50:55,230 [INFO] Successfully initialized Chrome driver
+2025-05-08 04:50:55,231 [INFO] Starting job scraping from https://www.joblist.com/au/search?l=Australia+Plains%2C+SA&lr=ANY_LOCATION
+2025-05-08 04:51:06,895 [INFO] Found 1 job cards using selector: /html/body/div[1]/div[8]/div[3]/div/div[1]/div[1]/div/div[1]
+2025-05-08 04:51:07,625 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:51:07,652 [INFO] Found 1 job cards using selector: /html/body/div[1]/div[8]/div[3]/div/div[1]/div[1]/div/div[1]
+2025-05-08 04:51:09,693 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:51:09,701 [INFO] Processing 1 job cards...
+2025-05-08 04:51:10,383 [WARNING] Job 1 has issues: Missing company, Missing location
+2025-05-08 04:51:10,553 [INFO] Successfully saved 1 jobs to MongoDB
+2025-05-08 04:51:10,554 [INFO] Saved True problematic jobs to MongoDB
+2025-05-08 04:51:10,555 [ERROR] Error saving to JSON: Object of type datetime is not JSON serializable
+2025-05-08 04:52:11,827 [INFO] Successfully connected to MongoDB
+2025-05-08 04:52:11,828 [INFO] ====== WebDriver manager ======
+2025-05-08 04:52:14,321 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:52:14,430 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:52:14,534 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 04:52:15,720 [INFO] Successfully initialized Chrome driver
+2025-05-08 04:52:15,721 [INFO] Starting job scraping from https://www.joblist.com/au/search?l=Australia+Plains%2C+SA&lr=ANY_LOCATION
+2025-05-08 04:52:29,232 [INFO] Found 1 job cards using selector: /html/body/div[1]/div[8]/div[3]/div/div[1]/div[1]/div/div[1]
+2025-05-08 04:52:29,255 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:29,285 [INFO] Found 1 job cards using selector: /html/body/div[1]/div[8]/div[3]/div/div[1]/div[1]/div/div[1]
+2025-05-08 04:52:31,838 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:31,847 [INFO] Processing 1 job cards...
+2025-05-08 04:52:32,270 [WARNING] Error extracting URL: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,288 [WARNING] Error extracting title: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a/div/div[2]/h2"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,308 [WARNING] Error extracting company: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a/div/div[2]/div[1]"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,326 [WARNING] Error extracting location: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a/div/div[2]/div[2]"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,342 [WARNING] Error extracting post type and date: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a/div/div[2]/div[3]"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,362 [WARNING] Error extracting salary: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a/div/div[2]/div[4]"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED05D3]
+	(No symbol) [0x00F1899E]
+	(No symbol) [0x00F18D3B]
+	(No symbol) [0x00F0E111]
+	(No symbol) [0x00F3D2E4]
+	(No symbol) [0x00F0E034]
+	(No symbol) [0x00F3D514]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:52:32,598 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="0" data-cpc="0.35" data-jobcountry="AU" data-provider="ADZUNA_CPC" data-fingerprint="10021055699168722411" data-fingerprint-jd="5572725872306688181"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="clearbit-logo css-f04p3o"><picture><source srcset="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/prestigecareer.com.webp" type="image/webp" class="css-1ywkigs"><img src="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/prestigecareer.com.png" alt="joblist-logo-job-search" height="48" width="48" class="css-1ywkigs"></picture></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">Groundsperson/ Plant Operator</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">Prestige Staffing</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Mildura</span><span>, <!-- --> <!-- -->VIC<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"><div class="css-boanch"><div data-cy="job-item-label" class="css-hlvht0">New</div></div><div class="css-boanch"><div data-cy="job-item-label" class="css-1t32ri5">Warehouse</div></div></div></div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:52:32,599 [WARNING] Job 1 has issues: Missing title, Missing company, Missing location
+2025-05-08 04:52:32,622 [INFO] Successfully saved 1 jobs to MongoDB
+2025-05-08 04:52:32,622 [INFO] Saved True problematic jobs to MongoDB
+2025-05-08 04:52:32,624 [INFO] Saved 1 problematic jobs to data/json\joblist_problematic_jobs_20250508_045232.json
+2025-05-08 04:53:31,265 [INFO] Successfully connected to MongoDB
+2025-05-08 04:53:31,266 [INFO] ====== WebDriver manager ======
+2025-05-08 04:53:34,077 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:53:34,197 [INFO] Get LATEST chromedriver version for google-chrome
+2025-05-08 04:53:34,319 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 04:53:35,561 [INFO] Successfully initialized Chrome driver
+2025-05-08 04:53:35,561 [INFO] Starting job scraping from https://www.joblist.com/au/search?l=Australia+Plains%2C+SA&lr=ANY_LOCATION
+2025-05-08 04:53:47,421 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:53:47,448 [INFO] Found 33 job cards using selector: div.job-item
+2025-05-08 04:53:48,383 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:53:48,406 [INFO] Found 33 job cards using selector: div.job-item
+2025-05-08 04:53:50,558 [WARNING] Error during human behavior simulation: Message: move target out of bounds
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x010AFC53+61635]
+	GetHandleVerifier [0x010AFC94+61700]
+	(No symbol) [0x00ED044E]
+	(No symbol) [0x00F66A61]
+	(No symbol) [0x00F3D29C]
+	(No symbol) [0x00F5E61B]
+	(No symbol) [0x00F3D096]
+	(No symbol) [0x00F0C840]
+	(No symbol) [0x00F0D6A4]
+	GetHandleVerifier [0x01334573+2701795]
+	GetHandleVerifier [0x0132FCF6+2683238]
+	GetHandleVerifier [0x0134AA3E+2793134]
+	GetHandleVerifier [0x010C6915+155013]
+	GetHandleVerifier [0x010CCFFD+181357]
+	GetHandleVerifier [0x010B74A8+92440]
+	GetHandleVerifier [0x010B7650+92864]
+	GetHandleVerifier [0x010A2040+5296]
+	BaseThreadInitThunk [0x75E05D49+25]
+	RtlInitializeExceptionChain [0x77AACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77AACE91+561]
+
+2025-05-08 04:53:50,567 [INFO] Processing 33 job cards...
+2025-05-08 04:53:51,403 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="0" data-cpc="0.35" data-jobcountry="AU" data-provider="ADZUNA_CPC" data-fingerprint="10021055699168722411" data-fingerprint-jd="5572725872306688181"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="clearbit-logo css-f04p3o"><picture><source srcset="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/prestigecareer.com.webp" type="image/webp" class="css-1ywkigs"><img src="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/prestigecareer.com.png" alt="joblist-logo-job-search" height="48" width="48" class="css-1ywkigs"></picture></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">Groundsperson/ Plant Operator</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">Prestige Staffing</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Mildura</span><span>, <!-- --> <!-- -->VIC<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"><div class="css-boanch"><div data-cy="job-item-label" class="css-hlvht0">New</div></div><div class="css-boanch"><div data-cy="job-item-label" class="css-1t32ri5">Warehouse</div></div></div></div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:53:51,404 [INFO] Successfully scraped job 1: Groundsperson/ Plant Operator
+2025-05-08 04:53:52,109 [INFO] Successfully scraped job 2: Data Entry Clerk Work From Home - Part Time Focus Group Panelists
+2025-05-08 04:53:52,719 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="2" data-cpc="0.097" data-jobcountry="AU" data-provider="NEUVOO_SPONSORED" data-fingerprint="6753129894299309981" data-fingerprint-jd="8860597039869011891"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="clearbit-logo css-f04p3o"><picture><source srcset="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/enhancedlifestyles.com.au.webp" type="image/webp" class="css-1ywkigs"><img src="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/enhancedlifestyles.com.au.png" alt="joblist-logo-job-search" height="48" width="48" class="css-1ywkigs"></picture></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">Disability Support Worker Blanchetown, SA</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">Enhanced Lifestyles</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Blanchetown</span><span>, <!-- --> <!-- -->SA<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"><div class="css-boanch"><div data-cy="job-item-label" class="css-1t32ri5">Part-Time</div></div></div></div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:53:52,720 [INFO] Successfully scraped job 3: Disability Support Worker Blanchetown, SA
+2025-05-08 04:53:53,326 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="3" data-cpc="0.097" data-jobcountry="AU" data-provider="NEUVOO_SPONSORED" data-fingerprint="2950418229068402072" data-fingerprint-jd="5615699339792849864"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="clearbit-logo css-f04p3o"><picture><source srcset="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/wsb.com.au.webp" type="image/webp" class="css-1ywkigs"><img src="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/wsb.com.au.png" alt="joblist-logo-job-search" height="48" width="48" class="css-1ywkigs"></picture></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">Diesel Technicians - Multiple Locations</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">WSB Distributors</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Clare</span><span>, <!-- --> <!-- -->SA<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"></div></div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:53:53,326 [INFO] Successfully scraped job 4: Diesel Technicians - Multiple Locations
+2025-05-08 04:53:54,116 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="4" data-cpc="0.097" data-jobcountry="AU" data-provider="NEUVOO_SPONSORED" data-fingerprint="7967621297789853856" data-fingerprint-jd="11469058806243713077"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="text-logo css-15bj22u"><svg viewBox="0 0 80 80" preserveAspectRatio="xMinYMin meet" class="css-1unwftr"><g><circle r="50%" cx="50%" cy="50%" class="circle-back css-11aqx7r"></circle><text x="50%" y="50%" text-anchor="middle" dy=".3em" class="css-1h8teft">CR</text></g></svg></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">James - Job ad - Locum ED &amp; On-Call – Wallaroo, Balaklava, Maitland, Yorketown &amp; Port Pirie</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">Charterhouse Recruitment (Australia)</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Balaklava</span><span>, <!-- --> <!-- -->SA<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"></div></div><div class="css-1ebjxsd"><div class="css-11sk6j6"><div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0"><div style="display:block;box-sizing:border-box;padding-top:100%"></div><img alt="Icon: salary" src="/_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=3840&amp;q=75" decoding="async" data-nimg="responsive" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=3840&amp;q=75 3840w"><noscript><img alt="Icon: salary" sizes="100vw" srcSet="/_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Fstatic.joblist.com%2Fstatic%2Ficons%2Fmoney.svg&amp;w=3840&amp;q=75" decoding="async" data-nimg="responsive" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript></div></div>$2,400 - $2,800 / month</div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:53:54,117 [INFO] Successfully scraped job 5: James - Job ad - Locum ED & On-Call – Wallaroo, Balaklava, Maitland, Yorketown & Port Pirie
+2025-05-08 04:53:54,695 [INFO] Job card HTML: <div class="job-item ov  css-15ystdb" data-cy="job-item"><div class="segment-ui jobItemUi css-1imia1s" data-position="5" data-cpc="0.097" data-jobcountry="AU" data-provider="NEUVOO_SPONSORED" data-fingerprint="7958294863349984137" data-fingerprint-jd="4620300820868842044"><div class="itemUi"><div class="css-1fhgjcy"><div class="css-adcdrp"><div class="clearbit-logo css-f04p3o"><picture><source srcset="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/acspropertyservices.com.au.webp" type="image/webp" class="css-1ywkigs"><img src="https://www.joblist.com/dispatch/backend/x83d19978/company-images/v2/acspropertyservices.com.au.png" alt="joblist-logo-job-search" height="48" width="48" class="css-1ywkigs"></picture></div></div></div><div class="css-1cl4rbs"><h2 class="itemHeaderUi css-10w5g4p" data-cy="job-item-title">School Cleaner - Part Time</h2><div class="itemMetaUi css-11t701e" data-cy="job-item-company">ACS Property Services</div><div class="itemMetaUi css-gbogy6" data-cy="job-item-ui-meta"><span>Gawler South</span><span>, <!-- --> <!-- -->SA<!-- --> </span></div><div class="itemExtraUi css-7u2hjg"><div class="css-169mvty"><div class="css-boanch"><div data-cy="job-item-label" class="css-1t32ri5">Part-Time</div></div></div></div></div><div class="css-zjs6oh"><span class="iconUi js-icon css-1xkuc6c"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="#1b1f1f"><path d="M5 3l3.057-3 11.943 12-11.943 12-3.057-3 9-9z"></path></svg></span></div></div></div></div>
+2025-05-08 04:53:54,696 [INFO] Successfully scraped job 6: School Cleaner - Part Time
+2025-05-08 04:53:55,401 [INFO] Successfully scraped job 7: Assistant Manager
+2025-05-08 04:53:56,230 [INFO] Successfully scraped job 8: Assistant Manager - Village Hotel
+2025-05-08 04:53:56,676 [INFO] Successfully scraped job 9: Housekeeper | Golden Grove
+2025-05-08 04:53:57,139 [INFO] Successfully scraped job 10: Retail Sales Assistant- St Agnes (Casual)
+2025-05-08 04:53:57,956 [INFO] Successfully scraped job 11: Office Cleaner Two Wells Police Station - Thursday 3:00pm - 5:00pm
+2025-05-08 04:53:58,674 [INFO] Successfully scraped job 12: ASO3 - Events Coordinator
+2025-05-08 04:53:59,424 [INFO] Successfully scraped job 13: Production Supervisor
+2025-05-08 04:54:00,044 [INFO] Successfully scraped job 14: Storeperson
+2025-05-08 04:54:00,507 [INFO] Successfully scraped job 15: Tour Guides Wanted
+2025-05-08 04:54:00,956 [INFO] Successfully scraped job 16: CONNOR - Retail Sales Assistant - Ingle Farm
+2025-05-08 04:54:01,768 [INFO] Successfully scraped job 17: Job Coach
+2025-05-08 04:54:02,473 [INFO] Successfully scraped job 18: New Car Sales manager
+2025-05-08 04:54:03,175 [INFO] Successfully scraped job 19: Early Childhood Teacher
+2025-05-08 04:54:03,768 [INFO] Successfully scraped job 20: Personal Support Worker - Salisbury & Surrounds
+2025-05-08 04:54:04,555 [INFO] Successfully scraped job 21: Area Sales Manager
+2025-05-08 04:54:05,093 [INFO] Successfully scraped job 22: SA/NT Safety Business Partner
+2025-05-08 04:54:05,558 [INFO] Successfully scraped job 23: Venue Manager - Eureka Tavern
+2025-05-08 04:54:05,991 [INFO] Successfully scraped job 24: STUDENT COUNSELLOR FOUNDATION TO YEAR 12
+2025-05-08 04:54:06,547 [INFO] Successfully scraped job 25: Retail Team Member
+2025-05-08 04:54:07,380 [INFO] Successfully scraped job 26: Cleaning and Trolley Collection - Coles Tea Tree Plaza
+2025-05-08 04:54:08,214 [INFO] Successfully scraped job 27: Sales Assistant Team Member | BRAS N THINGS | Tea Tree Plaza
+2025-05-08 04:54:08,805 [INFO] Successfully scraped job 28: Meat Process Workers
+2025-05-08 04:54:09,568 [INFO] Successfully scraped job 29: Viterra Traineeship Programme 2025
+2025-05-08 04:54:10,001 [INFO] Successfully scraped job 30: Trade Assistance
+2025-05-08 04:54:10,742 [INFO] Successfully scraped job 31: Remote Data Entry Clerk - Work From Home
+2025-05-08 04:54:11,522 [INFO] Successfully scraped job 32: Remote Work From Home Data Entry Clerk / Typing
+2025-05-08 04:54:12,043 [INFO] Successfully scraped job 33: Remote Work From Home Online - Paid Research Panelist - Data Entry Clerk Welcome
+2025-05-08 04:54:12,065 [INFO] Successfully saved 33 jobs to MongoDB
+2025-05-08 04:54:12,065 [INFO] Saved True jobs to MongoDB
+2025-05-08 04:54:12,067 [INFO] Saved 33 successful jobs to data/json\joblist_jobs_20250508_045412.json

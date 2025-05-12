@@ -1,0 +1,3 @@
+"""
+QUT Courses main package.
+"""

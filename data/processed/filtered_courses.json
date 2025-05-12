@@ -1,0 +1,860 @@
+[
+  {
+    "course_code": "BS05",
+    "course_title": "Bachelor of Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BS06",
+    "course_title": "Bachelor of Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BZ05",
+    "course_title": "Bachelor of Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "CA01",
+    "course_title": "Bachelor of Creative Arts",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "DE43",
+    "course_title": "Bachelor of Design",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "DE44",
+    "course_title": "Bachelor of Design Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "DE45",
+    "course_title": "Bachelor of Design - International",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ED29",
+    "course_title": "Bachelor of Educational Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN29",
+    "course_title": "Bachelor of Engineering Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL25",
+    "course_title": "Bachelor of Health Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IN01",
+    "course_title": "Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IN05",
+    "course_title": "Bachelor of Games and Interactive Environments",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "KC40",
+    "course_title": "Bachelor of Communication",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "LV41",
+    "course_title": "Bachelor of Biomedical Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "MS01",
+    "course_title": "Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "MV01",
+    "course_title": "Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ST01",
+    "course_title": "Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SV02",
+    "course_title": "Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "AB01",
+    "course_title": "Bachelor of Built Environment (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BS63",
+    "course_title": "Bachelor of Business (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "CS46",
+    "course_title": "Bachelor of Podiatry (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "CS50",
+    "course_title": "Bachelor of Radiation Therapy (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN01",
+    "course_title": "Bachelor of Engineering (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL53",
+    "course_title": "Bachelor of Biomedical Science (Honours) (Study Area A)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ST20",
+    "course_title": "Bachelor of Science Advanced (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SW05",
+    "course_title": "Bachelor of Social Work (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "XN52",
+    "course_title": "Bachelor of Clinical Exercise Physiology (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL16",
+    "course_title": "Bachelor of Nursing / Bachelor of Public Health",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL18",
+    "course_title": "Bachelor of Nursing / Bachelor of Behavioural Science (Psychology)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL20",
+    "course_title": "Bachelor of Behavioural Science (Psychology) / Bachelor of Social Work",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID02",
+    "course_title": "Bachelor of Creative Industries / Bachelor of Human Services",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID03",
+    "course_title": "Bachelor of Creative Industries / Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID07",
+    "course_title": "Bachelor of Communication / Bachelor of Public Health",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID09",
+    "course_title": "Bachelor of Communication / Bachelor of Justice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID10",
+    "course_title": "Bachelor of Communication / Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID11",
+    "course_title": "Bachelor of Communication / Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID15",
+    "course_title": "Bachelor of Design / Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID28",
+    "course_title": "Bachelor of Biomedical Science / Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID30",
+    "course_title": "Bachelor of Data Science / Bachelor of Property Economics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID49",
+    "course_title": "Bachelor of Creative Arts / Bachelor of Behavioural Science (Psychology)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID53",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Property Economics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID56",
+    "course_title": "Bachelor of Behavioural Science (Psychology) / Bachelor of Design",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID57",
+    "course_title": "Bachelor of Education (Secondary) / Bachelor of Creative Arts",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IX77",
+    "course_title": "Bachelor of Behavioural Science (Psychology) / Bachelor of Justice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IX78",
+    "course_title": "Bachelor of Human Services / Bachelor of Justice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE07",
+    "course_title": "Bachelor of Science/ Bachelor of Data Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE20",
+    "course_title": "Bachelor of Science / Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE30",
+    "course_title": "Bachelor of Information Technology / Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE50",
+    "course_title": "Bachelor of Science / Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE70",
+    "course_title": "Bachelor of Games and Interactive Environments / Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE90",
+    "course_title": "Bachelor of Science / Bachelor of Games and Interactive Environments",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EB01",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Urban and Regional Planning)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EB02",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Construction Management and Quantity Surveying)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EB03",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Interior Design)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EB04",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Landscape Architecture)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EB05",
+    "course_title": "Bachelor of Architectural Design / Bachelor of Engineering (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID14",
+    "course_title": "Bachelor of Design / Bachelor of Engineering (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID37",
+    "course_title": "Bachelor of Creative Industries / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID38",
+    "course_title": "Bachelor of Communication / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID40",
+    "course_title": "Bachelor of Property Economics / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID41",
+    "course_title": "Bachelor of Data Science / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID42",
+    "course_title": "Bachelor of Science / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID44",
+    "course_title": "Bachelor of Behavioural Science (Psychology) / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID46",
+    "course_title": "Bachelor of Information Technology / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID47",
+    "course_title": "Bachelor of Biomedical Science / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID48",
+    "course_title": "Bachelor of Justice / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID51",
+    "course_title": "Bachelor of Built Environment (Honours) (Landscape Architecture) / Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID52",
+    "course_title": "Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Property Economics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID55",
+    "course_title": "Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID58",
+    "course_title": "Bachelor of Creative Arts / Bachelor of Laws (Honours)",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID60",
+    "course_title": "Bachelor of Built Environment (Honours) (Interior Design) / Bachelor of Property Economics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "ID61",
+    "course_title": "Bachelor of Built Environment (Honours) (Construction Management &amp; Quantity Surveying) / Bachelor of Property Economics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE40",
+    "course_title": "Bachelor of Engineering (Honours) / Bachelor of Mathematics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE60",
+    "course_title": "Bachelor of Engineering (Honours) / Bachelor of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SE80",
+    "course_title": "Bachelor of Engineering (Honours) / Bachelor of Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BS79",
+    "course_title": "Graduate Diploma in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN79",
+    "course_title": "Graduate Diploma in Engineering Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EU20",
+    "course_title": "Graduate Diploma in Educational Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS41",
+    "course_title": "Graduate Diploma in Business Administration",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS72",
+    "course_title": "Graduate Diploma in Business Administration",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ44",
+    "course_title": "Graduate Diploma in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HQ10",
+    "course_title": "Graduate Diploma in Gerontology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IN97",
+    "course_title": "Graduate Diploma in Information Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ19",
+    "course_title": "Graduate Diploma in Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "KQ87",
+    "course_title": "Graduate Diploma in Digital Communication",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "LZ41",
+    "course_title": "Graduate Diploma in Legal Practice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "NS60",
+    "course_title": "Graduate Diploma in Nursing",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PH71",
+    "course_title": "Graduate Diploma in Applied Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ63",
+    "course_title": "Graduate Diploma in Health Management",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ77",
+    "course_title": "Graduate Diploma in Health Management and Leadership",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PY10",
+    "course_title": "Graduate Diploma in Counselling",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SW60",
+    "course_title": "Graduate Diploma in Social Care",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BS39",
+    "course_title": "Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EQ60",
+    "course_title": "Graduate Certificate in Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EU60",
+    "course_title": "Graduate Certificate in Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EZ60",
+    "course_title": "Graduate Certificate in Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS60",
+    "course_title": "Executive Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS71",
+    "course_title": "Graduate Certificate in Business Administration",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ34",
+    "course_title": "Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ35",
+    "course_title": "Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ38",
+    "course_title": "Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ39",
+    "course_title": "Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GZ60",
+    "course_title": "Executive Graduate Certificate in Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HQ08",
+    "course_title": "Graduate Certificate in Care of the Aged",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HQ09",
+    "course_title": "Graduate Certificate in Gerontology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IF89",
+    "course_title": "Graduate Certificate in Research Studies",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IN70",
+    "course_title": "Graduate Certificate in Information Technology Practice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ14",
+    "course_title": "Graduate Certificate in Business Analysis",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ15",
+    "course_title": "Graduate Certificate in Computer Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ16",
+    "course_title": "Graduate Certificate in Cyber Security and Networks",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ18",
+    "course_title": "Graduate Certificate in Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ26",
+    "course_title": "Graduate Certificate in Data Analytics",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ70",
+    "course_title": "Graduate Certificate in Information Technology Practice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IZ25",
+    "course_title": "Graduate Certificate in Business Process Management",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IZ70",
+    "course_title": "Graduate Certificate in Information Technology Practice",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "JQ12",
+    "course_title": "Graduate Certificate in Domestic Violence Responses",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "JQ20",
+    "course_title": "Graduate Certificate in Investigations and Intelligence",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "JQ23",
+    "course_title": "Graduate Certificate in Policy and Governance",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "KQ86",
+    "course_title": "Graduate Certificate in Digital Communication",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ15",
+    "course_title": "Graduate Certificate in Project Management",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ30",
+    "course_title": "Graduate Certificate in Emergency and Disaster Management",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ31",
+    "course_title": "Graduate Certificate in Health Management and Leadership",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "SW30",
+    "course_title": "Graduate Certificate in Social Care",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "BS11",
+    "course_title": "Master of Business",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN50",
+    "course_title": "Master of Engineering",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN55",
+    "course_title": "Master of Professional Engineering",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EQ71",
+    "course_title": "Master of Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EU71",
+    "course_title": "Master of Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EU73",
+    "course_title": "Master of Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EZ71",
+    "course_title": "Master of Education",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS73",
+    "course_title": "Master of Business Administration",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "GS75",
+    "course_title": "Master of Business Administration",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HQ11",
+    "course_title": "Master of Gerontology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "IQ20",
+    "course_title": "Master of Information Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "KQ89",
+    "course_title": "Master of Digital Communication",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PH80",
+    "course_title": "Master of Applied Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ20",
+    "course_title": "Master of Project Management",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PQ87",
+    "course_title": "Master of Health Management and Leadership",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "PU80",
+    "course_title": "Master of Health, Safety and Environment",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "EN80",
+    "course_title": "Master of Engineering Management / Master of Engineering Technology",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "U022",
+    "course_title": "Certificate of Achievement",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "HL10",
+    "course_title": "Diploma in Health Science",
+    "day_obtained": "",
+    "import_date": ""
+  },
+  {
+    "course_code": "QC08",
+    "course_title": "Standard Foundation Program",
+    "day_obtained": "",
+    "import_date": ""
+  }
+]

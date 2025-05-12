@@ -1,0 +1,5 @@
+scrapy
+pymongo
+playwright
+scrapy-playwright
+python-dotenv

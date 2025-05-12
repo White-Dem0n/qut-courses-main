@@ -1,0 +1,20 @@
+[
+  {
+    "title": "",
+    "company": "",
+    "location": "",
+    "url": "",
+    "salary": "",
+    "job_type": "",
+    "posted_date": "",
+    "description": "",
+    "source": "Joblist",
+    "scraped_at": "2025-05-08T04:52:32.599549",
+    "errors": [
+      "Missing title",
+      "Missing company",
+      "Missing location"
+    ],
+    "_id": "681babf0e87964ec512cd15b"
+  }
+]

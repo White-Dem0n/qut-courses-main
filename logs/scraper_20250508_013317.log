@@ -1,0 +1,517 @@
+2025-05-08 01:33:17,491 - INFO - Starting course scraping process
+2025-05-08 01:33:17,491 - INFO - courses.json already exists
+2025-05-08 01:33:17,492 - INFO - Processing 256 courses...
+2025-05-08 01:33:17,492 - INFO - Processing course 1/256: AB05 - Bachelor of Architectural Design
+2025-05-08 01:33:21,502 - INFO - Script ECI.py completed successfully with args: ('AB05', 'Bachelor of Architectural Design')
+2025-05-08 01:33:21,503 - INFO - Processing course 2/256: BS05 - Bachelor of Business
+2025-05-08 01:33:25,800 - INFO - Script ECI.py completed successfully with args: ('BS05', 'Bachelor of Business')
+2025-05-08 01:33:25,801 - INFO - Processing course 3/256: BS06 - Bachelor of Business
+2025-05-08 01:33:29,246 - INFO - Script ECI.py completed successfully with args: ('BS06', 'Bachelor of Business')
+2025-05-08 01:33:29,246 - INFO - Processing course 4/256: BS08 - Bachelor of Business - International
+2025-05-08 01:33:34,712 - INFO - Script ECI.py completed successfully with args: ('BS08', 'Bachelor of Business - International')
+2025-05-08 01:33:34,712 - INFO - Processing course 5/256: BZ05 - Bachelor of Business
+2025-05-08 01:33:38,301 - INFO - Script ECI.py completed successfully with args: ('BZ05', 'Bachelor of Business')
+2025-05-08 01:33:38,302 - INFO - Processing course 6/256: CA01 - Bachelor of Creative Arts
+2025-05-08 01:33:41,326 - INFO - Script ECI.py completed successfully with args: ('CA01', 'Bachelor of Creative Arts')
+2025-05-08 01:33:41,327 - INFO - Processing course 7/256: CA02 - Bachelor of Creative Arts (Acting)
+2025-05-08 01:33:45,748 - INFO - Script ECI.py completed successfully with args: ('CA02', 'Bachelor of Creative Arts (Acting)')
+2025-05-08 01:33:45,749 - INFO - Processing course 8/256: CS43 - Bachelor of Paramedic Science
+2025-05-08 01:33:50,483 - INFO - Script ECI.py completed successfully with args: ('CS43', 'Bachelor of Paramedic Science')
+2025-05-08 01:33:50,483 - INFO - Processing course 9/256: CS44 - Bachelor of Podiatry
+2025-05-08 01:33:54,988 - INFO - Script ECI.py completed successfully with args: ('CS44', 'Bachelor of Podiatry')
+2025-05-08 01:33:54,988 - INFO - Processing course 10/256: CS49 - Bachelor of Radiation Therapy
+2025-05-08 01:33:59,360 - INFO - Script ECI.py completed successfully with args: ('CS49', 'Bachelor of Radiation Therapy')
+2025-05-08 01:33:59,361 - INFO - Processing course 11/256: DE43 - Bachelor of Design
+2025-05-08 01:34:03,646 - INFO - Script ECI.py completed successfully with args: ('DE43', 'Bachelor of Design')
+2025-05-08 01:34:03,647 - INFO - Processing course 12/256: DE44 - Bachelor of Design Studies
+2025-05-08 01:34:06,113 - INFO - Script ECI.py completed successfully with args: ('DE44', 'Bachelor of Design Studies')
+2025-05-08 01:34:06,114 - INFO - Processing course 13/256: DE45 - Bachelor of Design - International
+2025-05-08 01:34:09,814 - INFO - Script ECI.py completed successfully with args: ('DE45', 'Bachelor of Design - International')
+2025-05-08 01:34:09,814 - INFO - Processing course 14/256: DS01 - Bachelor of Data Science
+2025-05-08 01:34:13,884 - INFO - Script ECI.py completed successfully with args: ('DS01', 'Bachelor of Data Science')
+2025-05-08 01:34:13,885 - INFO - Processing course 15/256: ED29 - Bachelor of Educational Studies
+2025-05-08 01:34:16,181 - INFO - Script ECI.py completed successfully with args: ('ED29', 'Bachelor of Educational Studies')
+2025-05-08 01:34:16,181 - INFO - Processing course 16/256: ED34 - Bachelor of Early Childhood Education (Birth to Five)
+2025-05-08 01:34:20,041 - INFO - Script ECI.py completed successfully with args: ('ED34', 'Bachelor of Early Childhood Education (Birth to Five)')
+2025-05-08 01:34:20,041 - INFO - Processing course 17/256: ED39 - Bachelor of Education (Early Childhood)
+2025-05-08 01:34:24,004 - INFO - Script ECI.py completed successfully with args: ('ED39', 'Bachelor of Education (Early Childhood)')
+2025-05-08 01:34:24,004 - INFO - Processing course 18/256: ED49 - Bachelor of Education (Primary)
+2025-05-08 01:34:27,878 - INFO - Script ECI.py completed successfully with args: ('ED49', 'Bachelor of Education (Primary)')
+2025-05-08 01:34:27,879 - INFO - Processing course 19/256: ED59 - Bachelor of Education (Secondary)
+2025-05-08 01:34:32,557 - INFO - Script ECI.py completed successfully with args: ('ED59', 'Bachelor of Education (Secondary)')
+2025-05-08 01:34:32,558 - INFO - Processing course 20/256: EN29 - Bachelor of Engineering Studies
+2025-05-08 01:34:34,917 - INFO - Script ECI.py completed successfully with args: ('EN29', 'Bachelor of Engineering Studies')
+2025-05-08 01:34:34,917 - INFO - Processing course 21/256: HL25 - Bachelor of Health Studies
+2025-05-08 01:34:37,245 - INFO - Script ECI.py completed successfully with args: ('HL25', 'Bachelor of Health Studies')
+2025-05-08 01:34:37,245 - INFO - Processing course 22/256: IN01 - Bachelor of Information Technology
+2025-05-08 01:34:41,354 - INFO - Script ECI.py completed successfully with args: ('IN01', 'Bachelor of Information Technology')
+2025-05-08 01:34:41,354 - INFO - Processing course 23/256: IN05 - Bachelor of Games and Interactive Environments
+2025-05-08 01:34:46,178 - INFO - Script ECI.py completed successfully with args: ('IN05', 'Bachelor of Games and Interactive Environments')
+2025-05-08 01:34:46,178 - INFO - Processing course 24/256: JS34 - Bachelor of Justice
+2025-05-08 01:34:51,413 - INFO - Script ECI.py completed successfully with args: ('JS34', 'Bachelor of Justice')
+2025-05-08 01:34:51,414 - INFO - Processing course 25/256: KC40 - Bachelor of Communication
+2025-05-08 01:34:55,755 - INFO - Script ECI.py completed successfully with args: ('KC40', 'Bachelor of Communication')
+2025-05-08 01:34:55,755 - INFO - Processing course 26/256: KK43 - Bachelor of Creative Industries
+2025-05-08 01:35:01,428 - INFO - Script ECI.py completed successfully with args: ('KK43', 'Bachelor of Creative Industries')
+2025-05-08 01:35:01,428 - INFO - Processing course 27/256: LS40 - Bachelor of Biomedical Science
+2025-05-08 01:35:06,777 - INFO - Script ECI.py completed successfully with args: ('LS40', 'Bachelor of Biomedical Science')
+2025-05-08 01:35:06,778 - INFO - Processing course 28/256: LS47 - Bachelor of Medical Laboratory Science
+2025-05-08 01:35:12,019 - INFO - Script ECI.py completed successfully with args: ('LS47', 'Bachelor of Medical Laboratory Science')
+2025-05-08 01:35:12,019 - INFO - Processing course 29/256: LV41 - Bachelor of Biomedical Science
+2025-05-08 01:35:16,278 - INFO - Script ECI.py completed successfully with args: ('LV41', 'Bachelor of Biomedical Science')
+2025-05-08 01:35:16,279 - INFO - Processing course 30/256: MS01 - Bachelor of Mathematics
+2025-05-08 01:35:20,619 - INFO - Script ECI.py completed successfully with args: ('MS01', 'Bachelor of Mathematics')
+2025-05-08 01:35:20,620 - INFO - Processing course 31/256: MV01 - Bachelor of Mathematics
+2025-05-08 01:35:23,964 - INFO - Script ECI.py completed successfully with args: ('MV01', 'Bachelor of Mathematics')
+2025-05-08 01:35:23,965 - INFO - Processing course 32/256: NS42 - Bachelor of Nursing
+2025-05-08 01:35:29,200 - INFO - Script ECI.py completed successfully with args: ('NS42', 'Bachelor of Nursing')
+2025-05-08 01:35:29,200 - INFO - Processing course 33/256: OP45 - Bachelor of Vision Science
+2025-05-08 01:35:33,066 - INFO - Script ECI.py completed successfully with args: ('OP45', 'Bachelor of Vision Science')
+2025-05-08 01:35:33,066 - INFO - Processing course 34/256: PU51 - Bachelor of Health Information Management
+2025-05-08 01:35:38,155 - INFO - Script ECI.py completed successfully with args: ('PU51', 'Bachelor of Health Information Management')
+2025-05-08 01:35:38,155 - INFO - Processing course 35/256: PU52 - Bachelor of Public Health
+2025-05-08 01:35:43,366 - INFO - Script ECI.py completed successfully with args: ('PU52', 'Bachelor of Public Health')
+2025-05-08 01:35:43,366 - INFO - Processing course 36/256: PY45 - Bachelor of Behavioural Science (Psychology)
+2025-05-08 01:35:47,639 - INFO - Script ECI.py completed successfully with args: ('PY45', 'Bachelor of Behavioural Science (Psychology)')
+2025-05-08 01:35:47,640 - INFO - Processing course 37/256: ST01 - Bachelor of Science
+2025-05-08 01:35:52,425 - INFO - Script ECI.py completed successfully with args: ('ST01', 'Bachelor of Science')
+2025-05-08 01:35:52,425 - INFO - Processing course 38/256: SV02 - Bachelor of Science
+2025-05-08 01:35:55,828 - INFO - Script ECI.py completed successfully with args: ('SV02', 'Bachelor of Science')
+2025-05-08 01:35:55,828 - INFO - Processing course 39/256: SW03 - Bachelor of Human Services
+2025-05-08 01:36:00,801 - INFO - Script ECI.py completed successfully with args: ('SW03', 'Bachelor of Human Services')
+2025-05-08 01:36:00,801 - INFO - Processing course 40/256: SW04 - Bachelor of Social Work
+2025-05-08 01:36:05,578 - INFO - Script ECI.py completed successfully with args: ('SW04', 'Bachelor of Social Work')
+2025-05-08 01:36:05,578 - INFO - Processing course 41/256: UD05 - Bachelor of Property Economics
+2025-05-08 01:36:10,759 - INFO - Script ECI.py completed successfully with args: ('UD05', 'Bachelor of Property Economics')
+2025-05-08 01:36:10,759 - INFO - Processing course 42/256: XN43 - Bachelor of Nutrition Science
+2025-05-08 01:36:15,410 - INFO - Script ECI.py completed successfully with args: ('XN43', 'Bachelor of Nutrition Science')
+2025-05-08 01:36:15,410 - INFO - Processing course 43/256: XN50 - Bachelor of Sport and Exercise Science
+2025-05-08 01:36:19,547 - INFO - Script ECI.py completed successfully with args: ('XN50', 'Bachelor of Sport and Exercise Science')
+2025-05-08 01:36:19,548 - INFO - Processing course 44/256: XN51 - Bachelor of Clinical Exercise Physiology
+2025-05-08 01:36:24,450 - INFO - Script ECI.py completed successfully with args: ('XN51', 'Bachelor of Clinical Exercise Physiology')
+2025-05-08 01:36:24,450 - INFO - Processing course 45/256: AB01 - Bachelor of Built Environment (Honours)
+2025-05-08 01:36:28,582 - INFO - Script ECI.py completed successfully with args: ('AB01', 'Bachelor of Built Environment (Honours)')
+2025-05-08 01:36:28,583 - INFO - Processing course 46/256: BS63 - Bachelor of Business (Honours)
+2025-05-08 01:36:32,810 - INFO - Script ECI.py completed successfully with args: ('BS63', 'Bachelor of Business (Honours)')
+2025-05-08 01:36:32,810 - INFO - Processing course 47/256: CS46 - Bachelor of Podiatry (Honours)
+2025-05-08 01:36:35,093 - INFO - Script ECI.py completed successfully with args: ('CS46', 'Bachelor of Podiatry (Honours)')
+2025-05-08 01:36:35,093 - INFO - Processing course 48/256: CS47 - Bachelor of Pharmacy (Honours)
+2025-05-08 01:36:40,043 - INFO - Script ECI.py completed successfully with args: ('CS47', 'Bachelor of Pharmacy (Honours)')
+2025-05-08 01:36:40,044 - INFO - Processing course 49/256: CS48 - Bachelor of Medical Imaging (Honours)
+2025-05-08 01:36:44,627 - INFO - Script ECI.py completed successfully with args: ('CS48', 'Bachelor of Medical Imaging (Honours)')
+2025-05-08 01:36:44,628 - INFO - Processing course 50/256: CS50 - Bachelor of Radiation Therapy (Honours)
+2025-05-08 01:36:46,974 - INFO - Script ECI.py completed successfully with args: ('CS50', 'Bachelor of Radiation Therapy (Honours)')
+2025-05-08 01:36:46,975 - INFO - Processing course 51/256: EN01 - Bachelor of Engineering (Honours)
+2025-05-08 01:36:51,258 - INFO - Script ECI.py completed successfully with args: ('EN01', 'Bachelor of Engineering (Honours)')
+2025-05-08 01:36:51,258 - INFO - Processing course 52/256: HL53 - Bachelor of Biomedical Science (Honours) (Study Area A)
+2025-05-08 01:36:53,543 - INFO - Script ECI.py completed successfully with args: ('HL53', 'Bachelor of Biomedical Science (Honours) (Study Area A)')
+2025-05-08 01:36:53,543 - INFO - Processing course 53/256: IN10 - Bachelor of Information Technology (Honours)
+2025-05-08 01:36:57,890 - INFO - Script ECI.py completed successfully with args: ('IN10', 'Bachelor of Information Technology (Honours)')
+2025-05-08 01:36:57,890 - INFO - Processing course 54/256: LW38 - Bachelor of Laws (Honours)
+2025-05-08 01:37:02,074 - INFO - Script ECI.py completed successfully with args: ('LW38', 'Bachelor of Laws (Honours)')
+2025-05-08 01:37:02,075 - INFO - Processing course 55/256: LW39 - Bachelor of Laws (Honours) (Graduate Entry)
+2025-05-08 01:37:06,731 - INFO - Script ECI.py completed successfully with args: ('LW39', 'Bachelor of Laws (Honours) (Graduate Entry)')
+2025-05-08 01:37:06,731 - INFO - Processing course 56/256: MS10 - Bachelor of Mathematics (Honours)
+2025-05-08 01:37:11,090 - INFO - Script ECI.py completed successfully with args: ('MS10', 'Bachelor of Mathematics (Honours)')
+2025-05-08 01:37:11,091 - INFO - Processing course 57/256: PY09 - Bachelor of Behavioural Science (Honours Psychology)
+2025-05-08 01:37:15,168 - INFO - Script ECI.py completed successfully with args: ('PY09', 'Bachelor of Behavioural Science (Honours Psychology)')
+2025-05-08 01:37:15,169 - INFO - Processing course 58/256: ST10 - Bachelor of Science (Honours)
+2025-05-08 01:37:19,464 - INFO - Script ECI.py completed successfully with args: ('ST10', 'Bachelor of Science (Honours)')
+2025-05-08 01:37:19,464 - INFO - Processing course 59/256: ST20 - Bachelor of Science Advanced (Honours)
+2025-05-08 01:37:23,239 - INFO - Script ECI.py completed successfully with args: ('ST20', 'Bachelor of Science Advanced (Honours)')
+2025-05-08 01:37:23,239 - INFO - Processing course 60/256: SW05 - Bachelor of Social Work (Honours)
+2025-05-08 01:37:26,018 - INFO - Script ECI.py completed successfully with args: ('SW05', 'Bachelor of Social Work (Honours)')
+2025-05-08 01:37:26,018 - INFO - Processing course 61/256: XN45 - Bachelor of Nutrition and Dietetics (Honours)
+2025-05-08 01:37:30,838 - INFO - Script ECI.py completed successfully with args: ('XN45', 'Bachelor of Nutrition and Dietetics (Honours)')
+2025-05-08 01:37:30,839 - INFO - Processing course 62/256: XN52 - Bachelor of Clinical Exercise Physiology (Honours)
+2025-05-08 01:37:33,158 - INFO - Script ECI.py completed successfully with args: ('XN52', 'Bachelor of Clinical Exercise Physiology (Honours)')
+2025-05-08 01:37:33,158 - INFO - Processing course 63/256: HL16 - Bachelor of Nursing / Bachelor of Public Health
+2025-05-08 01:37:35,527 - INFO - Script ECI.py completed successfully with args: ('HL16', 'Bachelor of Nursing / Bachelor of Public Health')
+2025-05-08 01:37:35,528 - INFO - Processing course 64/256: HL18 - Bachelor of Nursing / Bachelor of Behavioural Science (Psychology)
+2025-05-08 01:37:37,908 - INFO - Script ECI.py completed successfully with args: ('HL18', 'Bachelor of Nursing / Bachelor of Behavioural Science (Psychology)')
+2025-05-08 01:37:37,908 - INFO - Processing course 65/256: HL20 - Bachelor of Behavioural Science (Psychology) / Bachelor of Social Work
+2025-05-08 01:37:40,195 - INFO - Script ECI.py completed successfully with args: ('HL20', 'Bachelor of Behavioural Science (Psychology) / Bachelor of Social Work')
+2025-05-08 01:37:40,195 - INFO - Processing course 66/256: ID02 - Bachelor of Creative Industries / Bachelor of Human Services
+2025-05-08 01:37:42,491 - INFO - Script ECI.py completed successfully with args: ('ID02', 'Bachelor of Creative Industries / Bachelor of Human Services')
+2025-05-08 01:37:42,491 - INFO - Processing course 67/256: ID03 - Bachelor of Creative Industries / Bachelor of Information Technology
+2025-05-08 01:37:44,985 - INFO - Script ECI.py completed successfully with args: ('ID03', 'Bachelor of Creative Industries / Bachelor of Information Technology')
+2025-05-08 01:37:44,986 - INFO - Processing course 68/256: ID07 - Bachelor of Communication / Bachelor of Public Health
+2025-05-08 01:37:47,341 - INFO - Script ECI.py completed successfully with args: ('ID07', 'Bachelor of Communication / Bachelor of Public Health')
+2025-05-08 01:37:47,342 - INFO - Processing course 69/256: ID09 - Bachelor of Communication / Bachelor of Justice
+2025-05-08 01:37:49,636 - INFO - Script ECI.py completed successfully with args: ('ID09', 'Bachelor of Communication / Bachelor of Justice')
+2025-05-08 01:37:49,636 - INFO - Processing course 70/256: ID10 - Bachelor of Communication / Bachelor of Information Technology
+2025-05-08 01:37:52,097 - INFO - Script ECI.py completed successfully with args: ('ID10', 'Bachelor of Communication / Bachelor of Information Technology')
+2025-05-08 01:37:52,098 - INFO - Processing course 71/256: ID11 - Bachelor of Communication / Bachelor of Science
+2025-05-08 01:37:54,605 - INFO - Script ECI.py completed successfully with args: ('ID11', 'Bachelor of Communication / Bachelor of Science')
+2025-05-08 01:37:54,606 - INFO - Processing course 72/256: ID15 - Bachelor of Design / Bachelor of Information Technology
+2025-05-08 01:37:56,985 - INFO - Script ECI.py completed successfully with args: ('ID15', 'Bachelor of Design / Bachelor of Information Technology')
+2025-05-08 01:37:56,986 - INFO - Processing course 73/256: ID28 - Bachelor of Biomedical Science / Bachelor of Mathematics
+2025-05-08 01:37:59,296 - INFO - Script ECI.py completed successfully with args: ('ID28', 'Bachelor of Biomedical Science / Bachelor of Mathematics')
+2025-05-08 01:37:59,297 - INFO - Processing course 74/256: ID30 - Bachelor of Data Science / Bachelor of Property Economics
+2025-05-08 01:38:01,702 - INFO - Script ECI.py completed successfully with args: ('ID30', 'Bachelor of Data Science / Bachelor of Property Economics')
+2025-05-08 01:38:01,702 - INFO - Processing course 75/256: ID49 - Bachelor of Creative Arts / Bachelor of Behavioural Science (Psychology)
+2025-05-08 01:38:03,996 - INFO - Script ECI.py completed successfully with args: ('ID49', 'Bachelor of Creative Arts / Bachelor of Behavioural Science (Psychology)')
+2025-05-08 01:38:03,996 - INFO - Processing course 76/256: ID53 - Bachelor of Architectural Design / Bachelor of Property Economics
+2025-05-08 01:38:06,338 - INFO - Script ECI.py completed successfully with args: ('ID53', 'Bachelor of Architectural Design / Bachelor of Property Economics')
+2025-05-08 01:38:06,338 - INFO - Processing course 77/256: ID56 - Bachelor of Behavioural Science (Psychology) / Bachelor of Design
+2025-05-08 01:38:08,640 - INFO - Script ECI.py completed successfully with args: ('ID56', 'Bachelor of Behavioural Science (Psychology) / Bachelor of Design')
+2025-05-08 01:38:08,640 - INFO - Processing course 78/256: ID57 - Bachelor of Education (Secondary) / Bachelor of Creative Arts
+2025-05-08 01:38:11,060 - INFO - Script ECI.py completed successfully with args: ('ID57', 'Bachelor of Education (Secondary) / Bachelor of Creative Arts')
+2025-05-08 01:38:11,061 - INFO - Processing course 79/256: IX77 - Bachelor of Behavioural Science (Psychology) / Bachelor of Justice
+2025-05-08 01:38:13,451 - INFO - Script ECI.py completed successfully with args: ('IX77', 'Bachelor of Behavioural Science (Psychology) / Bachelor of Justice')
+2025-05-08 01:38:13,451 - INFO - Processing course 80/256: IX78 - Bachelor of Human Services / Bachelor of Justice
+2025-05-08 01:38:15,929 - INFO - Script ECI.py completed successfully with args: ('IX78', 'Bachelor of Human Services / Bachelor of Justice')
+2025-05-08 01:38:15,929 - INFO - Processing course 81/256: SE07 - Bachelor of Science/ Bachelor of Data Science
+2025-05-08 01:38:18,728 - INFO - Script ECI.py completed successfully with args: ('SE07', 'Bachelor of Science/ Bachelor of Data Science')
+2025-05-08 01:38:18,728 - INFO - Processing course 82/256: SE20 - Bachelor of Science / Bachelor of Mathematics
+2025-05-08 01:38:21,042 - INFO - Script ECI.py completed successfully with args: ('SE20', 'Bachelor of Science / Bachelor of Mathematics')
+2025-05-08 01:38:21,042 - INFO - Processing course 83/256: SE30 - Bachelor of Information Technology / Bachelor of Mathematics
+2025-05-08 01:38:23,415 - INFO - Script ECI.py completed successfully with args: ('SE30', 'Bachelor of Information Technology / Bachelor of Mathematics')
+2025-05-08 01:38:23,416 - INFO - Processing course 84/256: SE50 - Bachelor of Science / Bachelor of Information Technology
+2025-05-08 01:38:25,793 - INFO - Script ECI.py completed successfully with args: ('SE50', 'Bachelor of Science / Bachelor of Information Technology')
+2025-05-08 01:38:25,794 - INFO - Processing course 85/256: SE70 - Bachelor of Games and Interactive Environments / Bachelor of Mathematics
+2025-05-08 01:38:28,132 - INFO - Script ECI.py completed successfully with args: ('SE70', 'Bachelor of Games and Interactive Environments / Bachelor of Mathematics')
+2025-05-08 01:38:28,133 - INFO - Processing course 86/256: SE90 - Bachelor of Science / Bachelor of Games and Interactive Environments
+2025-05-08 01:38:30,470 - INFO - Script ECI.py completed successfully with args: ('SE90', 'Bachelor of Science / Bachelor of Games and Interactive Environments')
+2025-05-08 01:38:30,471 - INFO - Processing course 87/256: EB01 - Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Urban and Regional Planning)
+2025-05-08 01:38:32,855 - INFO - Script ECI.py completed successfully with args: ('EB01', 'Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Urban and Regional Planning)')
+2025-05-08 01:38:32,856 - INFO - Processing course 88/256: EB02 - Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Construction Management and Quantity Surveying)
+2025-05-08 01:38:35,187 - INFO - Script ECI.py completed successfully with args: ('EB02', 'Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Construction Management and Quantity Surveying)')
+2025-05-08 01:38:35,188 - INFO - Processing course 89/256: EB03 - Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Interior Design)
+2025-05-08 01:38:37,528 - INFO - Script ECI.py completed successfully with args: ('EB03', 'Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Interior Design)')
+2025-05-08 01:38:37,529 - INFO - Processing course 90/256: EB04 - Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Landscape Architecture)
+2025-05-08 01:38:39,904 - INFO - Script ECI.py completed successfully with args: ('EB04', 'Bachelor of Architectural Design / Bachelor of Built Environment (Honours) (Landscape Architecture)')
+2025-05-08 01:38:39,904 - INFO - Processing course 91/256: EB05 - Bachelor of Architectural Design / Bachelor of Engineering (Honours)
+2025-05-08 01:38:42,282 - INFO - Script ECI.py completed successfully with args: ('EB05', 'Bachelor of Architectural Design / Bachelor of Engineering (Honours)')
+2025-05-08 01:38:42,283 - INFO - Processing course 92/256: ID14 - Bachelor of Design / Bachelor of Engineering (Honours)
+2025-05-08 01:38:44,681 - INFO - Script ECI.py completed successfully with args: ('ID14', 'Bachelor of Design / Bachelor of Engineering (Honours)')
+2025-05-08 01:38:44,681 - INFO - Processing course 93/256: ID37 - Bachelor of Creative Industries / Bachelor of Laws (Honours)
+2025-05-08 01:38:47,720 - INFO - Script ECI.py completed successfully with args: ('ID37', 'Bachelor of Creative Industries / Bachelor of Laws (Honours)')
+2025-05-08 01:38:47,721 - INFO - Processing course 94/256: ID38 - Bachelor of Communication / Bachelor of Laws (Honours)
+2025-05-08 01:38:50,796 - INFO - Script ECI.py completed successfully with args: ('ID38', 'Bachelor of Communication / Bachelor of Laws (Honours)')
+2025-05-08 01:38:50,796 - INFO - Processing course 95/256: ID40 - Bachelor of Property Economics / Bachelor of Laws (Honours)
+2025-05-08 01:38:53,926 - INFO - Script ECI.py completed successfully with args: ('ID40', 'Bachelor of Property Economics / Bachelor of Laws (Honours)')
+2025-05-08 01:38:53,927 - INFO - Processing course 96/256: ID41 - Bachelor of Data Science / Bachelor of Laws (Honours)
+2025-05-08 01:38:57,218 - INFO - Script ECI.py completed successfully with args: ('ID41', 'Bachelor of Data Science / Bachelor of Laws (Honours)')
+2025-05-08 01:38:57,218 - INFO - Processing course 97/256: ID42 - Bachelor of Science / Bachelor of Laws (Honours)
+2025-05-08 01:39:00,422 - INFO - Script ECI.py completed successfully with args: ('ID42', 'Bachelor of Science / Bachelor of Laws (Honours)')
+2025-05-08 01:39:00,422 - INFO - Processing course 98/256: ID44 - Bachelor of Behavioural Science (Psychology) / Bachelor of Laws (Honours)
+2025-05-08 01:39:03,657 - INFO - Script ECI.py completed successfully with args: ('ID44', 'Bachelor of Behavioural Science (Psychology) / Bachelor of Laws (Honours)')
+2025-05-08 01:39:03,657 - INFO - Processing course 99/256: ID46 - Bachelor of Information Technology / Bachelor of Laws (Honours)
+2025-05-08 01:39:06,909 - INFO - Script ECI.py completed successfully with args: ('ID46', 'Bachelor of Information Technology / Bachelor of Laws (Honours)')
+2025-05-08 01:39:06,909 - INFO - Processing course 100/256: ID47 - Bachelor of Biomedical Science / Bachelor of Laws (Honours)
+2025-05-08 01:39:10,140 - INFO - Script ECI.py completed successfully with args: ('ID47', 'Bachelor of Biomedical Science / Bachelor of Laws (Honours)')
+2025-05-08 01:39:10,141 - INFO - Processing course 101/256: ID48 - Bachelor of Justice / Bachelor of Laws (Honours)
+2025-05-08 01:39:14,498 - INFO - Script ECI.py completed successfully with args: ('ID48', 'Bachelor of Justice / Bachelor of Laws (Honours)')
+2025-05-08 01:39:14,499 - INFO - Processing course 102/256: ID51 - Bachelor of Built Environment (Honours) (Landscape Architecture) / Bachelor of Science
+2025-05-08 01:39:17,761 - INFO - Script ECI.py completed successfully with args: ('ID51', 'Bachelor of Built Environment (Honours) (Landscape Architecture) / Bachelor of Science')
+2025-05-08 01:39:17,761 - INFO - Processing course 103/256: ID52 - Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Property Economics
+2025-05-08 01:39:20,912 - INFO - Script ECI.py completed successfully with args: ('ID52', 'Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Property Economics')
+2025-05-08 01:39:20,912 - INFO - Processing course 104/256: ID55 - Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Science
+2025-05-08 01:39:23,746 - INFO - Script ECI.py completed successfully with args: ('ID55', 'Bachelor of Built Environment (Honours) (Urban and Regional Planning) / Bachelor of Science')
+2025-05-08 01:39:23,747 - INFO - Processing course 105/256: ID58 - Bachelor of Creative Arts / Bachelor of Laws (Honours)
+2025-05-08 01:39:26,733 - INFO - Script ECI.py completed successfully with args: ('ID58', 'Bachelor of Creative Arts / Bachelor of Laws (Honours)')
+2025-05-08 01:39:26,734 - INFO - Processing course 106/256: ID60 - Bachelor of Built Environment (Honours) (Interior Design) / Bachelor of Property Economics
+2025-05-08 01:39:29,627 - INFO - Script ECI.py completed successfully with args: ('ID60', 'Bachelor of Built Environment (Honours) (Interior Design) / Bachelor of Property Economics')
+2025-05-08 01:39:29,627 - INFO - Processing course 107/256: ID61 - Bachelor of Built Environment (Honours) (Construction Management &amp; Quantity Surveying) / Bachelor of Property Economics
+2025-05-08 01:39:32,538 - INFO - Script ECI.py completed successfully with args: ('ID61', 'Bachelor of Built Environment (Honours) (Construction Management &amp; Quantity Surveying) / Bachelor of Property Economics')
+2025-05-08 01:39:32,538 - INFO - Processing course 108/256: SE40 - Bachelor of Engineering (Honours) / Bachelor of Mathematics
+2025-05-08 01:39:35,419 - INFO - Script ECI.py completed successfully with args: ('SE40', 'Bachelor of Engineering (Honours) / Bachelor of Mathematics')
+2025-05-08 01:39:35,420 - INFO - Processing course 109/256: SE60 - Bachelor of Engineering (Honours) / Bachelor of Information Technology
+2025-05-08 01:39:38,339 - INFO - Script ECI.py completed successfully with args: ('SE60', 'Bachelor of Engineering (Honours) / Bachelor of Information Technology')
+2025-05-08 01:39:38,339 - INFO - Processing course 110/256: SE80 - Bachelor of Engineering (Honours) / Bachelor of Science
+2025-05-08 01:39:41,156 - INFO - Script ECI.py completed successfully with args: ('SE80', 'Bachelor of Engineering (Honours) / Bachelor of Science')
+2025-05-08 01:39:41,157 - INFO - Processing course 111/256: BS79 - Graduate Diploma in Business
+2025-05-08 01:39:43,794 - INFO - Script ECI.py completed successfully with args: ('BS79', 'Graduate Diploma in Business')
+2025-05-08 01:39:43,794 - INFO - Processing course 112/256: CS60 - Graduate Diploma in Medical Ultrasound
+2025-05-08 01:39:48,845 - INFO - Script ECI.py completed successfully with args: ('CS60', 'Graduate Diploma in Medical Ultrasound')
+2025-05-08 01:39:48,845 - INFO - Processing course 113/256: CS61 - Graduate Diploma in Cardiac Ultrasound
+2025-05-08 01:39:53,662 - INFO - Script ECI.py completed successfully with args: ('CS61', 'Graduate Diploma in Cardiac Ultrasound')
+2025-05-08 01:39:53,663 - INFO - Processing course 114/256: DE88 - Graduate Diploma in Strategic Design
+2025-05-08 01:39:58,516 - INFO - Script ECI.py completed successfully with args: ('DE88', 'Graduate Diploma in Strategic Design')
+2025-05-08 01:39:58,516 - INFO - Processing course 115/256: EN79 - Graduate Diploma in Engineering Studies
+2025-05-08 01:40:01,575 - INFO - Script ECI.py completed successfully with args: ('EN79', 'Graduate Diploma in Engineering Studies')
+2025-05-08 01:40:01,575 - INFO - Processing course 116/256: EU20 - Graduate Diploma in Educational Studies
+2025-05-08 01:40:04,728 - INFO - Script ECI.py completed successfully with args: ('EU20', 'Graduate Diploma in Educational Studies')
+2025-05-08 01:40:04,728 - INFO - Processing course 117/256: GS41 - Graduate Diploma in Business Administration
+2025-05-08 01:40:07,575 - INFO - Script ECI.py completed successfully with args: ('GS41', 'Graduate Diploma in Business Administration')
+2025-05-08 01:40:07,576 - INFO - Processing course 118/256: GS72 - Graduate Diploma in Business Administration
+2025-05-08 01:40:10,333 - INFO - Script ECI.py completed successfully with args: ('GS72', 'Graduate Diploma in Business Administration')
+2025-05-08 01:40:10,333 - INFO - Processing course 119/256: GZ44 - Graduate Diploma in Business
+2025-05-08 01:40:13,107 - INFO - Script ECI.py completed successfully with args: ('GZ44', 'Graduate Diploma in Business')
+2025-05-08 01:40:13,108 - INFO - Processing course 120/256: HQ10 - Graduate Diploma in Gerontology
+2025-05-08 01:40:15,854 - INFO - Script ECI.py completed successfully with args: ('HQ10', 'Graduate Diploma in Gerontology')
+2025-05-08 01:40:15,854 - INFO - Processing course 121/256: IN19 - Graduate Diploma in Information Technology
+2025-05-08 01:40:20,101 - INFO - Script ECI.py completed successfully with args: ('IN19', 'Graduate Diploma in Information Technology')
+2025-05-08 01:40:20,101 - INFO - Processing course 122/256: IN97 - Graduate Diploma in Information Science
+2025-05-08 01:40:22,845 - INFO - Script ECI.py completed successfully with args: ('IN97', 'Graduate Diploma in Information Science')
+2025-05-08 01:40:22,845 - INFO - Processing course 123/256: IQ19 - Graduate Diploma in Information Technology
+2025-05-08 01:40:27,001 - INFO - Script ECI.py completed successfully with args: ('IQ19', 'Graduate Diploma in Information Technology')
+2025-05-08 01:40:27,001 - INFO - Processing course 124/256: KC87 - Graduate Diploma in Digital Communication
+2025-05-08 01:40:31,724 - INFO - Script ECI.py completed successfully with args: ('KC87', 'Graduate Diploma in Digital Communication')
+2025-05-08 01:40:31,725 - INFO - Processing course 125/256: KQ87 - Graduate Diploma in Digital Communication
+2025-05-08 01:40:36,010 - INFO - Script ECI.py completed successfully with args: ('KQ87', 'Graduate Diploma in Digital Communication')
+2025-05-08 01:40:36,010 - INFO - Processing course 126/256: LP41 - Graduate Diploma in Legal Practice
+2025-05-08 01:40:41,342 - INFO - Script ECI.py completed successfully with args: ('LP41', 'Graduate Diploma in Legal Practice')
+2025-05-08 01:40:41,343 - INFO - Processing course 127/256: LS72 - Graduate Diploma in Diagnostic Genomics
+2025-05-08 01:40:46,410 - INFO - Script ECI.py completed successfully with args: ('LS72', 'Graduate Diploma in Diagnostic Genomics')
+2025-05-08 01:40:46,410 - INFO - Processing course 128/256: LZ41 - Graduate Diploma in Legal Practice
+2025-05-08 01:40:50,566 - INFO - Script ECI.py completed successfully with args: ('LZ41', 'Graduate Diploma in Legal Practice')
+2025-05-08 01:40:50,567 - INFO - Processing course 129/256: NS60 - Graduate Diploma in Nursing
+2025-05-08 01:40:53,414 - INFO - Script ECI.py completed successfully with args: ('NS60', 'Graduate Diploma in Nursing')
+2025-05-08 01:40:53,415 - INFO - Processing course 130/256: PH71 - Graduate Diploma in Applied Science
+2025-05-08 01:40:56,189 - INFO - Script ECI.py completed successfully with args: ('PH71', 'Graduate Diploma in Applied Science')
+2025-05-08 01:40:56,190 - INFO - Processing course 131/256: PQ63 - Graduate Diploma in Health Management
+2025-05-08 01:40:59,693 - INFO - Script ECI.py completed successfully with args: ('PQ63', 'Graduate Diploma in Health Management')
+2025-05-08 01:40:59,693 - INFO - Processing course 132/256: PQ77 - Graduate Diploma in Health Management and Leadership
+2025-05-08 01:41:04,674 - INFO - Script ECI.py completed successfully with args: ('PQ77', 'Graduate Diploma in Health Management and Leadership')
+2025-05-08 01:41:04,675 - INFO - Processing course 133/256: PU60 - Graduate Diploma in Public Health
+2025-05-08 01:41:10,332 - INFO - Script ECI.py completed successfully with args: ('PU60', 'Graduate Diploma in Public Health')
+2025-05-08 01:41:10,333 - INFO - Processing course 134/256: PU65 - Graduate Diploma in Occupational Health and Safety
+2025-05-08 01:41:18,509 - INFO - Script ECI.py completed successfully with args: ('PU65', 'Graduate Diploma in Occupational Health and Safety')
+2025-05-08 01:41:18,510 - INFO - Processing course 135/256: PU67 - Graduate Diploma in Environmental Health
+2025-05-08 01:41:23,779 - INFO - Script ECI.py completed successfully with args: ('PU67', 'Graduate Diploma in Environmental Health')
+2025-05-08 01:41:23,780 - INFO - Processing course 136/256: PU77 - Graduate Diploma in Health Management &amp; Leadership
+2025-05-08 01:41:26,893 - INFO - Script ECI.py completed successfully with args: ('PU77', 'Graduate Diploma in Health Management &amp; Leadership')
+2025-05-08 01:41:26,893 - INFO - Processing course 137/256: PY10 - Graduate Diploma in Counselling
+2025-05-08 01:41:29,851 - INFO - Script ECI.py completed successfully with args: ('PY10', 'Graduate Diploma in Counselling')
+2025-05-08 01:41:29,851 - INFO - Processing course 138/256: SW60 - Graduate Diploma in Social Care
+2025-05-08 01:41:32,722 - INFO - Script ECI.py completed successfully with args: ('SW60', 'Graduate Diploma in Social Care')
+2025-05-08 01:41:32,723 - INFO - Processing course 139/256: BS37 - Graduate Certificate in Business and Communication
+2025-05-08 01:41:37,706 - INFO - Script ECI.py completed successfully with args: ('BS37', 'Graduate Certificate in Business and Communication')
+2025-05-08 01:41:37,707 - INFO - Processing course 140/256: BS39 - Graduate Certificate in Business
+2025-05-08 01:41:41,852 - INFO - Script ECI.py completed successfully with args: ('BS39', 'Graduate Certificate in Business')
+2025-05-08 01:41:41,852 - INFO - Processing course 141/256: CS30 - Graduate Certificate in Podiatric Therapeutics
+2025-05-08 01:41:45,500 - INFO - Script ECI.py completed successfully with args: ('CS30', 'Graduate Certificate in Podiatric Therapeutics')
+2025-05-08 01:41:45,501 - INFO - Processing course 142/256: DE77 - Graduate Certificate in Strategic Design
+2025-05-08 01:41:49,839 - INFO - Script ECI.py completed successfully with args: ('DE77', 'Graduate Certificate in Strategic Design')
+2025-05-08 01:41:49,839 - INFO - Processing course 143/256: EN60 - Graduate Certificate in Communication for Engineering
+2025-05-08 01:41:55,060 - INFO - Script ECI.py completed successfully with args: ('EN60', 'Graduate Certificate in Communication for Engineering')
+2025-05-08 01:41:55,061 - INFO - Processing course 144/256: EN61 - Graduate Certificate in Smart Transport and Mobility
+2025-05-08 01:42:00,413 - INFO - Script ECI.py completed successfully with args: ('EN61', 'Graduate Certificate in Smart Transport and Mobility')
+2025-05-08 01:42:00,414 - INFO - Processing course 145/256: EN62 - Graduate Certificate in Robotics
+2025-05-08 01:42:05,354 - INFO - Script ECI.py completed successfully with args: ('EN62', 'Graduate Certificate in Robotics')
+2025-05-08 01:42:05,354 - INFO - Processing course 146/256: EN63 - Graduate Certificate in Renewable Power
+2025-05-08 01:42:10,646 - INFO - Script ECI.py completed successfully with args: ('EN63', 'Graduate Certificate in Renewable Power')
+2025-05-08 01:42:10,646 - INFO - Processing course 147/256: EN64 - Graduate Certificate in Digital and Robotic Manufacturing
+2025-05-08 01:42:15,964 - INFO - Script ECI.py completed successfully with args: ('EN64', 'Graduate Certificate in Digital and Robotic Manufacturing')
+2025-05-08 01:42:15,964 - INFO - Processing course 148/256: EN65 - Graduate Certificate in Water Modelling
+2025-05-08 01:42:21,019 - INFO - Script ECI.py completed successfully with args: ('EN65', 'Graduate Certificate in Water Modelling')
+2025-05-08 01:42:21,020 - INFO - Processing course 149/256: EN66 - Graduate Certificate in Bioprocess Engineering
+2025-05-08 01:42:26,143 - INFO - Script ECI.py completed successfully with args: ('EN66', 'Graduate Certificate in Bioprocess Engineering')
+2025-05-08 01:42:26,143 - INFO - Processing course 150/256: EN67 - Graduate Certificate in Renewable Energy Systems
+2025-05-08 01:42:30,973 - INFO - Script ECI.py completed successfully with args: ('EN67', 'Graduate Certificate in Renewable Energy Systems')
+2025-05-08 01:42:30,974 - INFO - Processing course 151/256: EQ60 - Graduate Certificate in Education
+2025-05-08 01:42:35,346 - INFO - Script ECI.py completed successfully with args: ('EQ60', 'Graduate Certificate in Education')
+2025-05-08 01:42:35,346 - INFO - Processing course 152/256: EU60 - Graduate Certificate in Education
+2025-05-08 01:42:38,693 - INFO - Script ECI.py completed successfully with args: ('EU60', 'Graduate Certificate in Education')
+2025-05-08 01:42:38,694 - INFO - Processing course 153/256: EZ60 - Graduate Certificate in Education
+2025-05-08 01:42:42,227 - INFO - Script ECI.py completed successfully with args: ('EZ60', 'Graduate Certificate in Education')
+2025-05-08 01:42:42,227 - INFO - Processing course 154/256: GS60 - Executive Graduate Certificate in Business
+2025-05-08 01:42:45,945 - INFO - Script ECI.py completed successfully with args: ('GS60', 'Executive Graduate Certificate in Business')
+2025-05-08 01:42:45,945 - INFO - Processing course 155/256: GS71 - Graduate Certificate in Business Administration
+2025-05-08 01:42:53,135 - INFO - Script ECI.py completed successfully with args: ('GS71', 'Graduate Certificate in Business Administration')
+2025-05-08 01:42:53,136 - INFO - Processing course 156/256: GS87 - Graduate Certificate in Business Administration
+2025-05-08 01:42:57,123 - INFO - Script ECI.py completed successfully with args: ('GS87', 'Graduate Certificate in Business Administration')
+2025-05-08 01:42:57,123 - INFO - Processing course 157/256: GS89 - Executive Graduate Certificate in Business Administration
+2025-05-08 01:43:01,551 - INFO - Script ECI.py completed successfully with args: ('GS89', 'Executive Graduate Certificate in Business Administration')
+2025-05-08 01:43:01,551 - INFO - Processing course 158/256: GZ34 - Graduate Certificate in Business
+2025-05-08 01:43:04,943 - INFO - Script ECI.py completed successfully with args: ('GZ34', 'Graduate Certificate in Business')
+2025-05-08 01:43:04,943 - INFO - Processing course 159/256: GZ35 - Graduate Certificate in Business
+2025-05-08 01:43:08,467 - INFO - Script ECI.py completed successfully with args: ('GZ35', 'Graduate Certificate in Business')
+2025-05-08 01:43:08,468 - INFO - Processing course 160/256: GZ38 - Graduate Certificate in Business
+2025-05-08 01:43:11,856 - INFO - Script ECI.py completed successfully with args: ('GZ38', 'Graduate Certificate in Business')
+2025-05-08 01:43:11,856 - INFO - Processing course 161/256: GZ39 - Graduate Certificate in Business
+2025-05-08 01:43:15,302 - INFO - Script ECI.py completed successfully with args: ('GZ39', 'Graduate Certificate in Business')
+2025-05-08 01:43:15,302 - INFO - Processing course 162/256: GZ60 - Executive Graduate Certificate in Business
+2025-05-08 01:43:17,946 - INFO - Script ECI.py completed successfully with args: ('GZ60', 'Executive Graduate Certificate in Business')
+2025-05-08 01:43:17,947 - INFO - Processing course 163/256: HQ08 - Graduate Certificate in Care of the Aged
+2025-05-08 01:43:20,683 - INFO - Script ECI.py completed successfully with args: ('HQ08', 'Graduate Certificate in Care of the Aged')
+2025-05-08 01:43:20,683 - INFO - Processing course 164/256: HQ09 - Graduate Certificate in Gerontology
+2025-05-08 01:43:23,446 - INFO - Script ECI.py completed successfully with args: ('HQ09', 'Graduate Certificate in Gerontology')
+2025-05-08 01:43:23,446 - INFO - Processing course 165/256: IF89 - Graduate Certificate in Research Studies
+2025-05-08 01:43:26,105 - INFO - Script ECI.py completed successfully with args: ('IF89', 'Graduate Certificate in Research Studies')
+2025-05-08 01:43:26,106 - INFO - Processing course 166/256: IN17 - Graduate Certificate in Communication for Information Technology
+2025-05-08 01:43:30,564 - INFO - Script ECI.py completed successfully with args: ('IN17', 'Graduate Certificate in Communication for Information Technology')
+2025-05-08 01:43:30,565 - INFO - Processing course 167/256: IN18 - Graduate Certificate in Information Technology
+2025-05-08 01:43:35,132 - INFO - Script ECI.py completed successfully with args: ('IN18', 'Graduate Certificate in Information Technology')
+2025-05-08 01:43:35,133 - INFO - Processing course 168/256: IN25 - Graduate Certificate in Business Process Management
+2025-05-08 01:43:39,785 - INFO - Script ECI.py completed successfully with args: ('IN25', 'Graduate Certificate in Business Process Management')
+2025-05-08 01:43:39,785 - INFO - Processing course 169/256: IN30 - Graduate Certificate in Data Science
+2025-05-08 01:43:44,816 - INFO - Script ECI.py completed successfully with args: ('IN30', 'Graduate Certificate in Data Science')
+2025-05-08 01:43:44,816 - INFO - Processing course 170/256: IN70 - Graduate Certificate in Information Technology Practice
+2025-05-08 01:43:47,484 - INFO - Script ECI.py completed successfully with args: ('IN70', 'Graduate Certificate in Information Technology Practice')
+2025-05-08 01:43:47,484 - INFO - Processing course 171/256: IQ14 - Graduate Certificate in Business Analysis
+2025-05-08 01:43:50,165 - INFO - Script ECI.py completed successfully with args: ('IQ14', 'Graduate Certificate in Business Analysis')
+2025-05-08 01:43:50,166 - INFO - Processing course 172/256: IQ15 - Graduate Certificate in Computer Science
+2025-05-08 01:43:52,923 - INFO - Script ECI.py completed successfully with args: ('IQ15', 'Graduate Certificate in Computer Science')
+2025-05-08 01:43:52,924 - INFO - Processing course 173/256: IQ16 - Graduate Certificate in Cyber Security and Networks
+2025-05-08 01:43:55,771 - INFO - Script ECI.py completed successfully with args: ('IQ16', 'Graduate Certificate in Cyber Security and Networks')
+2025-05-08 01:43:55,771 - INFO - Processing course 174/256: IQ18 - Graduate Certificate in Information Technology
+2025-05-08 01:43:59,755 - INFO - Script ECI.py completed successfully with args: ('IQ18', 'Graduate Certificate in Information Technology')
+2025-05-08 01:43:59,756 - INFO - Processing course 175/256: IQ26 - Graduate Certificate in Data Analytics
+2025-05-08 01:44:02,406 - INFO - Script ECI.py completed successfully with args: ('IQ26', 'Graduate Certificate in Data Analytics')
+2025-05-08 01:44:02,406 - INFO - Processing course 176/256: IQ70 - Graduate Certificate in Information Technology Practice
+2025-05-08 01:44:05,632 - INFO - Script ECI.py completed successfully with args: ('IQ70', 'Graduate Certificate in Information Technology Practice')
+2025-05-08 01:44:05,632 - INFO - Processing course 177/256: IZ25 - Graduate Certificate in Business Process Management
+2025-05-08 01:44:09,412 - INFO - Script ECI.py completed successfully with args: ('IZ25', 'Graduate Certificate in Business Process Management')
+2025-05-08 01:44:09,413 - INFO - Processing course 178/256: IZ70 - Graduate Certificate in Information Technology Practice
+2025-05-08 01:44:12,282 - INFO - Script ECI.py completed successfully with args: ('IZ70', 'Graduate Certificate in Information Technology Practice')
+2025-05-08 01:44:12,283 - INFO - Processing course 179/256: JQ12 - Graduate Certificate in Domestic Violence Responses
+2025-05-08 01:44:14,850 - INFO - Script ECI.py completed successfully with args: ('JQ12', 'Graduate Certificate in Domestic Violence Responses')
+2025-05-08 01:44:14,851 - INFO - Processing course 180/256: JQ20 - Graduate Certificate in Investigations and Intelligence
+2025-05-08 01:44:17,571 - INFO - Script ECI.py completed successfully with args: ('JQ20', 'Graduate Certificate in Investigations and Intelligence')
+2025-05-08 01:44:17,571 - INFO - Processing course 181/256: JQ23 - Graduate Certificate in Policy and Governance
+2025-05-08 01:44:20,413 - INFO - Script ECI.py completed successfully with args: ('JQ23', 'Graduate Certificate in Policy and Governance')
+2025-05-08 01:44:20,413 - INFO - Processing course 182/256: KC86 - Graduate Certificate in Digital Communication
+2025-05-08 01:44:25,013 - INFO - Script ECI.py completed successfully with args: ('KC86', 'Graduate Certificate in Digital Communication')
+2025-05-08 01:44:25,014 - INFO - Processing course 183/256: KQ86 - Graduate Certificate in Digital Communication
+2025-05-08 01:44:28,831 - INFO - Script ECI.py completed successfully with args: ('KQ86', 'Graduate Certificate in Digital Communication')
+2025-05-08 01:44:28,831 - INFO - Processing course 184/256: LS60 - Graduate Certificate in Diagnostic Genomics
+2025-05-08 01:44:33,666 - INFO - Script ECI.py completed successfully with args: ('LS60', 'Graduate Certificate in Diagnostic Genomics')
+2025-05-08 01:44:33,666 - INFO - Processing course 185/256: NS32 - Graduate Certificate in Nursing
+2025-05-08 01:44:39,691 - INFO - Script ECI.py completed successfully with args: ('NS32', 'Graduate Certificate in Nursing')
+2025-05-08 01:44:39,691 - INFO - Processing course 186/256: PM15 - Graduate Certificate in Project Management
+2025-05-08 01:44:45,061 - INFO - Script ECI.py completed successfully with args: ('PM15', 'Graduate Certificate in Project Management')
+2025-05-08 01:44:45,061 - INFO - Processing course 187/256: PQ15 - Graduate Certificate in Project Management
+2025-05-08 01:44:49,015 - INFO - Script ECI.py completed successfully with args: ('PQ15', 'Graduate Certificate in Project Management')
+2025-05-08 01:44:49,015 - INFO - Processing course 188/256: PQ30 - Graduate Certificate in Emergency and Disaster Management
+2025-05-08 01:44:51,787 - INFO - Script ECI.py completed successfully with args: ('PQ30', 'Graduate Certificate in Emergency and Disaster Management')
+2025-05-08 01:44:51,787 - INFO - Processing course 189/256: PQ31 - Graduate Certificate in Health Management and Leadership
+2025-05-08 01:44:54,514 - INFO - Script ECI.py completed successfully with args: ('PQ31', 'Graduate Certificate in Health Management and Leadership')
+2025-05-08 01:44:54,514 - INFO - Processing course 190/256: PU70 - Graduate Certificate in Digital Health Leadership and Management
+2025-05-08 01:44:58,948 - INFO - Script ECI.py completed successfully with args: ('PU70', 'Graduate Certificate in Digital Health Leadership and Management')
+2025-05-08 01:44:58,949 - INFO - Processing course 191/256: SW30 - Graduate Certificate in Social Care
+2025-05-08 01:45:01,688 - INFO - Script ECI.py completed successfully with args: ('SW30', 'Graduate Certificate in Social Care')
+2025-05-08 01:45:01,688 - INFO - Processing course 192/256: BN87 - Master of Engineering Management
+2025-05-08 01:45:07,298 - INFO - Script ECI.py completed successfully with args: ('BN87', 'Master of Engineering Management')
+2025-05-08 01:45:07,298 - INFO - Processing course 193/256: BS11 - Master of Business
+2025-05-08 01:45:12,128 - INFO - Script ECI.py completed successfully with args: ('BS11', 'Master of Business')
+2025-05-08 01:45:12,129 - INFO - Processing course 194/256: DE83 - Master of Architecture
+2025-05-08 01:45:17,869 - INFO - Script ECI.py completed successfully with args: ('DE83', 'Master of Architecture')
+2025-05-08 01:45:17,870 - INFO - Processing course 195/256: DE99 - Master of Design (Strategic Design)
+2025-05-08 01:45:23,522 - INFO - Script ECI.py completed successfully with args: ('DE99', 'Master of Design (Strategic Design)')
+2025-05-08 01:45:23,522 - INFO - Processing course 196/256: EN50 - Master of Engineering
+2025-05-08 01:45:26,307 - INFO - Script ECI.py completed successfully with args: ('EN50', 'Master of Engineering')
+2025-05-08 01:45:26,307 - INFO - Processing course 197/256: EN51 - Master of Sustainable Infrastructure
+2025-05-08 01:45:32,884 - INFO - Script ECI.py completed successfully with args: ('EN51', 'Master of Sustainable Infrastructure')
+2025-05-08 01:45:32,885 - INFO - Processing course 198/256: EN52 - Master of Robotics and Artificial Intelligence
+2025-05-08 01:45:37,934 - INFO - Script ECI.py completed successfully with args: ('EN52', 'Master of Robotics and Artificial Intelligence')
+2025-05-08 01:45:37,935 - INFO - Processing course 199/256: EN53 - Master of Renewable Energy
+2025-05-08 01:45:43,176 - INFO - Script ECI.py completed successfully with args: ('EN53', 'Master of Renewable Energy')
+2025-05-08 01:45:43,176 - INFO - Processing course 200/256: EN54 - Master of Advanced Manufacturing
+2025-05-08 01:45:48,443 - INFO - Script ECI.py completed successfully with args: ('EN54', 'Master of Advanced Manufacturing')
+2025-05-08 01:45:48,443 - INFO - Processing course 201/256: EN55 - Master of Professional Engineering
+2025-05-08 01:45:52,700 - INFO - Script ECI.py completed successfully with args: ('EN55', 'Master of Professional Engineering')
+2025-05-08 01:45:52,700 - INFO - Processing course 202/256: EN56 - Master of Engineering Technology
+2025-05-08 01:45:57,725 - INFO - Script ECI.py completed successfully with args: ('EN56', 'Master of Engineering Technology')
+2025-05-08 01:45:57,725 - INFO - Processing course 203/256: EN71 - Master of Sustainable Infrastructure with Project Management
+2025-05-08 01:46:02,405 - INFO - Script ECI.py completed successfully with args: ('EN71', 'Master of Sustainable Infrastructure with Project Management')
+2025-05-08 01:46:02,406 - INFO - Processing course 204/256: EN72 - Master of Advanced Robotics and Artificial Intelligence
+2025-05-08 01:46:07,321 - INFO - Script ECI.py completed successfully with args: ('EN72', 'Master of Advanced Robotics and Artificial Intelligence')
+2025-05-08 01:46:07,321 - INFO - Processing course 205/256: EN73 - Master of Renewable Energy with Project Management
+2025-05-08 01:46:12,841 - INFO - Script ECI.py completed successfully with args: ('EN73', 'Master of Renewable Energy with Project Management')
+2025-05-08 01:46:12,841 - INFO - Processing course 206/256: EN74 - Master of Advanced Manufacturing with Project Management
+2025-05-08 01:46:19,136 - INFO - Script ECI.py completed successfully with args: ('EN74', 'Master of Advanced Manufacturing with Project Management')
+2025-05-08 01:46:19,137 - INFO - Processing course 207/256: EN75 - Master of Sustainable Infrastructure with Data Analytics
+2025-05-08 01:46:27,571 - INFO - Script ECI.py completed successfully with args: ('EN75', 'Master of Sustainable Infrastructure with Data Analytics')
+2025-05-08 01:46:27,572 - INFO - Processing course 208/256: EN76 - Master of Renewable Energy with Data Analytics
+2025-05-08 01:46:32,558 - INFO - Script ECI.py completed successfully with args: ('EN76', 'Master of Renewable Energy with Data Analytics')
+2025-05-08 01:46:32,559 - INFO - Processing course 209/256: EN77 - Master of Advanced Manufacturing with Data Analytics
+2025-05-08 01:46:37,734 - INFO - Script ECI.py completed successfully with args: ('EN77', 'Master of Advanced Manufacturing with Data Analytics')
+2025-05-08 01:46:37,735 - INFO - Processing course 210/256: EQ71 - Master of Education
+2025-05-08 01:46:41,973 - INFO - Script ECI.py completed successfully with args: ('EQ71', 'Master of Education')
+2025-05-08 01:46:41,973 - INFO - Processing course 211/256: EU30 - Master of Teaching (Early Childhood)
+2025-05-08 01:46:46,601 - INFO - Script ECI.py completed successfully with args: ('EU30', 'Master of Teaching (Early Childhood)')
+2025-05-08 01:46:46,602 - INFO - Processing course 212/256: EU40 - Master of Teaching (Primary)
+2025-05-08 01:46:51,216 - INFO - Script ECI.py completed successfully with args: ('EU40', 'Master of Teaching (Primary)')
+2025-05-08 01:46:51,216 - INFO - Processing course 213/256: EU50 - Master of Teaching (Secondary)
+2025-05-08 01:46:55,993 - INFO - Script ECI.py completed successfully with args: ('EU50', 'Master of Teaching (Secondary)')
+2025-05-08 01:46:55,994 - INFO - Processing course 214/256: EU71 - Master of Education
+2025-05-08 01:46:59,525 - INFO - Script ECI.py completed successfully with args: ('EU71', 'Master of Education')
+2025-05-08 01:46:59,526 - INFO - Processing course 215/256: EU73 - Master of Education
+2025-05-08 01:47:02,834 - INFO - Script ECI.py completed successfully with args: ('EU73', 'Master of Education')
+2025-05-08 01:47:02,834 - INFO - Processing course 216/256: EZ71 - Master of Education
+2025-05-08 01:47:06,339 - INFO - Script ECI.py completed successfully with args: ('EZ71', 'Master of Education')
+2025-05-08 01:47:06,339 - INFO - Processing course 217/256: GS50 - Executive Master of Business Administration
+2025-05-08 01:47:11,252 - INFO - Script ECI.py completed successfully with args: ('GS50', 'Executive Master of Business Administration')
+2025-05-08 01:47:11,252 - INFO - Processing course 218/256: GS73 - Master of Business Administration
+2025-05-08 01:47:13,920 - INFO - Script ECI.py completed successfully with args: ('GS73', 'Master of Business Administration')
+2025-05-08 01:47:13,920 - INFO - Processing course 219/256: GS75 - Master of Business Administration
+2025-05-08 01:47:17,392 - INFO - Script ECI.py completed successfully with args: ('GS75', 'Master of Business Administration')
+2025-05-08 01:47:17,392 - INFO - Processing course 220/256: HQ11 - Master of Gerontology
+2025-05-08 01:47:19,881 - INFO - Script ECI.py completed successfully with args: ('HQ11', 'Master of Gerontology')
+2025-05-08 01:47:19,881 - INFO - Processing course 221/256: IN20 - Master of Information Technology
+2025-05-08 01:47:24,476 - INFO - Script ECI.py completed successfully with args: ('IN20', 'Master of Information Technology')
+2025-05-08 01:47:24,476 - INFO - Processing course 222/256: IN31 - Master of Data Science
+2025-05-08 01:47:29,246 - INFO - Script ECI.py completed successfully with args: ('IN31', 'Master of Data Science')
+2025-05-08 01:47:29,247 - INFO - Processing course 223/256: IQ20 - Master of Information Technology
+2025-05-08 01:47:33,392 - INFO - Script ECI.py completed successfully with args: ('IQ20', 'Master of Information Technology')
+2025-05-08 01:47:33,392 - INFO - Processing course 224/256: KC88 - Master of Digital Communication
+2025-05-08 01:47:37,023 - INFO - Script ECI.py completed successfully with args: ('KC88', 'Master of Digital Communication')
+2025-05-08 01:47:37,024 - INFO - Processing course 225/256: KQ89 - Master of Digital Communication
+2025-05-08 01:47:40,816 - INFO - Script ECI.py completed successfully with args: ('KQ89', 'Master of Digital Communication')
+2025-05-08 01:47:40,817 - INFO - Processing course 226/256: LS81 - Master of Diagnostic Genomics
+2025-05-08 01:47:44,545 - INFO - Script ECI.py completed successfully with args: ('LS81', 'Master of Diagnostic Genomics')
+2025-05-08 01:47:44,545 - INFO - Processing course 227/256: NS89 - Master of Nursing - Entry to Practice
+2025-05-08 01:47:48,800 - INFO - Script ECI.py completed successfully with args: ('NS89', 'Master of Nursing - Entry to Practice')
+2025-05-08 01:47:48,800 - INFO - Processing course 228/256: NS90 - Master of Nurse Practitioner
+2025-05-08 01:47:53,430 - INFO - Script ECI.py completed successfully with args: ('NS90', 'Master of Nurse Practitioner')
+2025-05-08 01:47:53,430 - INFO - Processing course 229/256: NS95 - Master of Nursing
+2025-05-08 01:47:57,861 - INFO - Script ECI.py completed successfully with args: ('NS95', 'Master of Nursing')
+2025-05-08 01:47:57,861 - INFO - Processing course 230/256: OP85 - Master of Optometry
+2025-05-08 01:48:02,293 - INFO - Script ECI.py completed successfully with args: ('OP85', 'Master of Optometry')
+2025-05-08 01:48:02,293 - INFO - Processing course 231/256: PH80 - Master of Applied Science
+2025-05-08 01:48:04,702 - INFO - Script ECI.py completed successfully with args: ('PH80', 'Master of Applied Science')
+2025-05-08 01:48:04,702 - INFO - Processing course 232/256: PM20 - Master of Project Management
+2025-05-08 01:48:09,505 - INFO - Script ECI.py completed successfully with args: ('PM20', 'Master of Project Management')
+2025-05-08 01:48:09,505 - INFO - Processing course 233/256: PQ20 - Master of Project Management
+2025-05-08 01:48:14,535 - INFO - Script ECI.py completed successfully with args: ('PQ20', 'Master of Project Management')
+2025-05-08 01:48:14,536 - INFO - Processing course 234/256: PQ87 - Master of Health Management and Leadership
+2025-05-08 01:48:19,042 - INFO - Script ECI.py completed successfully with args: ('PQ87', 'Master of Health Management and Leadership')
+2025-05-08 01:48:19,043 - INFO - Processing course 235/256: PU80 - Master of Health, Safety and Environment
+2025-05-08 01:48:21,504 - INFO - Script ECI.py completed successfully with args: ('PU80', 'Master of Health, Safety and Environment')
+2025-05-08 01:48:21,504 - INFO - Processing course 236/256: PU86 - Master of Public Health
+2025-05-08 01:48:26,194 - INFO - Script ECI.py completed successfully with args: ('PU86', 'Master of Public Health')
+2025-05-08 01:48:26,195 - INFO - Processing course 237/256: PU87 - Master of Health Management and Leadership
+2025-05-08 01:48:30,123 - INFO - Script ECI.py completed successfully with args: ('PU87', 'Master of Health Management and Leadership')
+2025-05-08 01:48:30,124 - INFO - Processing course 238/256: PY12 - Master of Counselling
+2025-05-08 01:48:34,428 - INFO - Script ECI.py completed successfully with args: ('PY12', 'Master of Counselling')
+2025-05-08 01:48:34,428 - INFO - Processing course 239/256: PY18 - Master of Clinical Psychology
+2025-05-08 01:48:39,007 - INFO - Script ECI.py completed successfully with args: ('PY18', 'Master of Clinical Psychology')
+2025-05-08 01:48:39,008 - INFO - Processing course 240/256: PY19 - Master of Psychology (Educational and Developmental)
+2025-05-08 01:48:43,228 - INFO - Script ECI.py completed successfully with args: ('PY19', 'Master of Psychology (Educational and Developmental)')
+2025-05-08 01:48:43,229 - INFO - Processing course 241/256: SW81 - Master of Social Work - Qualifying
+2025-05-08 01:48:47,951 - INFO - Script ECI.py completed successfully with args: ('SW81', 'Master of Social Work - Qualifying')
+2025-05-08 01:48:47,951 - INFO - Processing course 242/256: EN80 - Master of Engineering Management / Master of Engineering Technology
+2025-05-08 01:48:50,361 - INFO - Script ECI.py completed successfully with args: ('EN80', 'Master of Engineering Management / Master of Engineering Technology')
+2025-05-08 01:48:50,361 - INFO - Processing course 243/256: IF80 - Master of Philosophy
+2025-05-08 01:48:54,738 - INFO - Script ECI.py completed successfully with args: ('IF80', 'Master of Philosophy')
+2025-05-08 01:48:54,738 - INFO - Processing course 244/256: ED11 - Doctor of Education
+2025-05-08 01:48:58,885 - INFO - Script ECI.py completed successfully with args: ('ED11', 'Doctor of Education')
+2025-05-08 01:48:58,885 - INFO - Processing course 245/256: IF49 - Doctor of Philosophy
+2025-05-08 01:49:02,431 - INFO - Script ECI.py completed successfully with args: ('IF49', 'Doctor of Philosophy')
+2025-05-08 01:49:02,432 - INFO - Processing course 246/256: U022 - Certificate of Achievement
+2025-05-08 01:49:05,266 - INFO - Script ECI.py completed successfully with args: ('U022', 'Certificate of Achievement')
+2025-05-08 01:49:05,266 - INFO - Processing course 247/256: AB02 - Diploma in Architectural Studies
+2025-05-08 01:49:09,704 - INFO - Script ECI.py completed successfully with args: ('AB02', 'Diploma in Architectural Studies')
+2025-05-08 01:49:09,705 - INFO - Processing course 248/256: BS40 - Diploma in Business
+2025-05-08 01:49:14,096 - INFO - Script ECI.py completed successfully with args: ('BS40', 'Diploma in Business')
+2025-05-08 01:49:14,096 - INFO - Processing course 249/256: EE18 - Diploma in Entrepreneurship
+2025-05-08 01:49:18,279 - INFO - Script ECI.py completed successfully with args: ('EE18', 'Diploma in Entrepreneurship')
+2025-05-08 01:49:18,280 - INFO - Processing course 250/256: EN02 - Diploma in Engineering
+2025-05-08 01:49:23,130 - INFO - Script ECI.py completed successfully with args: ('EN02', 'Diploma in Engineering')
+2025-05-08 01:49:23,131 - INFO - Processing course 251/256: ES21 - Diploma in Esports
+2025-05-08 01:49:27,552 - INFO - Script ECI.py completed successfully with args: ('ES21', 'Diploma in Esports')
+2025-05-08 01:49:27,553 - INFO - Processing course 252/256: HL10 - Diploma in Health Science
+2025-05-08 01:49:31,470 - INFO - Script ECI.py completed successfully with args: ('HL10', 'Diploma in Health Science')
+2025-05-08 01:49:31,471 - INFO - Processing course 253/256: IF06 - Diploma in Creative Industries
+2025-05-08 01:49:36,123 - INFO - Script ECI.py completed successfully with args: ('IF06', 'Diploma in Creative Industries')
+2025-05-08 01:49:36,124 - INFO - Processing course 254/256: IT10 - Diploma in Information Technology
+2025-05-08 01:49:40,939 - INFO - Script ECI.py completed successfully with args: ('IT10', 'Diploma in Information Technology')
+2025-05-08 01:49:40,940 - INFO - Processing course 255/256: QC07 - Intensive Program
+2025-05-08 01:49:45,549 - INFO - Script ECI.py completed successfully with args: ('QC07', 'Intensive Program')
+2025-05-08 01:49:45,549 - INFO - Processing course 256/256: QC08 - Standard Foundation Program
+2025-05-08 01:49:47,897 - INFO - Script ECI.py completed successfully with args: ('QC08', 'Standard Foundation Program')
+2025-05-08 01:49:47,897 - INFO - Course processing completed. Successful: 256, Failed: 0
+2025-05-08 01:49:47,897 - INFO - Course scraping process completed successfully

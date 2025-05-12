@@ -1,0 +1,2 @@
+[console_scripts]
+qut-courses = src.main:main
