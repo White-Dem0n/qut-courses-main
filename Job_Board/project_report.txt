@@ -1,0 +1,324 @@
+### 1. Analysis
+
+#### 1.1 Job Board Component
+The job board component was designed to provide comprehensive market insights through automated data collection from multiple sources.
+
+##### Data Sources and Scraping Methods
+Primary data sources included:
+- CareerJet (https://www.careerjet.com.au/): Implemented using BeautifulSoup4 for HTML parsing, with specific XPath selectors for job details (/html/body/main/div/div/div/ul/li/article/div). The scraper handles pagination through URL parameters (?p=2) and implements rate limiting (2-second delay between requests).
+- Seek (https://www.seek.com.au/): Utilized Selenium WebDriver for dynamic content loading, with custom wait conditions for job listings to appear. Implemented proxy rotation to avoid IP blocking.
+- LinkedIn (https://www.linkedin.com/jobs/): Used their official API with OAuth2 authentication for data extraction, focusing on job postings in the Australian market.
+
+The scraping process involved:
+1. Initial page load with proper headers and user agent rotation
+2. HTML parsing using BeautifulSoup4 and XPath selectors
+3. Data extraction with error handling and retry mechanisms
+4. Rate limiting implementation (2-second delay between requests)
+5. Data validation and cleaning before storage
+
+##### Technical Implementation Details
+1. CareerJet Scraper Implementation:
+```python
+class CareerJetScraper:
+    def __init__(self):
+        self.base_url = "https://www.careerjet.com.au/jobs"
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        self.max_retries = 3
+        self.retry_delay = 2
+
+    def scrape(self, max_pages=70):
+        all_jobs = []
+        for page in range(1, max_pages + 1):
+            url = f"{self.base_url}&p={page}"
+            try:
+                response = requests.get(url, headers=self.headers)
+                jobs = self.parse_job_listing(response.text)
+                if not jobs:
+                    break
+                all_jobs.extend(jobs)
+                time.sleep(self.retry_delay)
+            except Exception as e:
+                logger.error(f"Error scraping page {page}: {e}")
+                continue
+        return all_jobs
+```
+
+2. Data Validation Process:
+```python
+def validate_job_data(job_data):
+    required_fields = ['title', 'location', 'description']
+    validation_errors = []
+    
+    # Check required fields
+    for field in required_fields:
+        if not job_data.get(field):
+            validation_errors.append(f"Missing required field: {field}")
+    
+    # Validate data types and formats
+    if job_data.get('salary'):
+        if not isinstance(job_data['salary'], str):
+            validation_errors.append("Salary must be a string")
+    
+    # Clean and normalize text fields
+    for field in ['title', 'description']:
+        if job_data.get(field):
+            job_data[field] = clean_text(job_data[field])
+    
+    return validation_errors, job_data
+```
+
+3. Error Handling and Retry Mechanism:
+```python
+def scrape_with_retry(url, max_retries=3):
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            return response.text
+        except requests.RequestException as e:
+            if attempt == max_retries - 1:
+                raise
+            logger.warning(f"Attempt {attempt + 1} failed: {e}")
+            time.sleep(2 ** attempt)  # Exponential backoff
+```
+
+##### Data Processing Pipeline
+1. Text Cleaning:
+   - Remove HTML tags and special characters
+   - Normalize whitespace
+   - Convert to consistent case format
+   - Remove duplicate content
+
+2. Data Enrichment:
+   - Add timestamps for scraping
+   - Generate unique identifiers
+   - Categorize job types
+   - Extract skills from descriptions
+
+3. Quality Checks:
+   - Validate required fields
+   - Check for duplicate entries
+   - Verify data consistency
+   - Ensure proper formatting
+
+##### Market Research
+- Analyzed multiple job board platforms:
+  * CareerJet: Primary source for international job listings
+  * Seek: Major Australian job board
+  * LinkedIn: Professional networking platform
+- Identified key data points required for market analysis
+- Evaluated technical feasibility and data accessibility
+
+
+##### Data Requirements
+Essential job attributes identified for collection:
+- Job titles and descriptions
+- Company information
+- Location data
+- Salary information
+- Posted dates
+- Required skills and qualifications
+- Application deadlines
+- Job types (full-time, part-time, contract)
+
+##### Technical Challenges
+1. Dynamic Content Handling
+   - Websites using JavaScript for content loading
+   - Infinite scroll implementations
+   - Dynamic URL structures
+
+2. Anti-Scraping Measures
+   - IP blocking and rate limiting
+   - CAPTCHA challenges
+   - User agent detection
+
+3. Data Consistency
+   - Different data formats across platforms
+   - Inconsistent field naming
+   - Missing or incomplete data
+
+#### 1.2 Occupation Database
+
+##### Data Sources
+- Australian Government occupation lists
+- Industry skill requirements
+- Professional certification databases
+- Educational qualification frameworks
+
+##### Key Requirements
+1. Data Structure
+   - Standardized occupation classifications
+   - Hierarchical skill mapping
+   - Qualification requirements
+   - Industry certifications
+
+2. Update Mechanisms
+   - Automated data refresh
+   - Change detection
+   - Version control
+   - Historical data tracking
+
+### 2. Design
+
+#### 2.1 System Architecture
+
+##### Job Board Scraper
+1. Core Components
+   - Modular scraper architecture
+   - Independent modules for each platform
+   - Centralized data processing pipeline
+   - Error handling and logging system
+
+2. Key Features
+   - Automated pagination handling
+   - Rate limiting implementation
+   - Data deduplication
+   - JSON output format
+   - Retry mechanisms
+   - Proxy rotation system
+
+3. Data Processing
+   - Text cleaning and normalization
+   - Field validation
+   - Data enrichment
+   - Format standardization
+
+##### Occupation Database
+
+1. Database Design
+   - MongoDB implementation
+   - Document structure
+   - Indexing strategy
+   - Query optimization
+
+2. Data Management
+   - Import procedures
+   - Update mechanisms
+   - Backup systems
+   - Data validation
+
+### 3. Outcomes
+
+#### 3.1 Achievements
+
+##### Job Board Component
+1. Technical Implementation
+   - Successfully implemented scrapers for multiple platforms
+   - Achieved reliable data extraction
+   - Implemented robust error handling
+   - Created structured data output
+
+2. Performance Metrics
+   - Average extraction speed
+   - Success rate
+   - Data accuracy
+   - System reliability
+
+##### Occupation Database
+1. Data Coverage
+   - Number of occupations
+   - Skill mappings
+   - Qualification requirements
+   - Industry certifications
+
+2. System Performance
+   - Query response times
+   - Update frequency
+   - Data consistency
+   - System availability
+
+#### 3.2 Challenges and Solutions
+
+1. Technical Challenges
+   - Website structure changes
+   - Rate limiting
+   - Data consistency
+   - System scalability
+
+2. Implemented Solutions
+   - Adaptive scraping algorithms
+   - Rate limiting management
+   - Data validation pipelines
+   - Scalable architecture
+
+### 4. Group Reflection
+
+#### Technical Achievements
+1. System Development
+   - Complex web scraping solutions
+   - Robust error handling
+   - Maintainable codebase
+   - Scalable architecture
+
+2. Innovation
+   - Novel approaches to data extraction
+   - Efficient data processing
+   - Smart retry mechanisms
+   - Intelligent rate limiting
+
+#### Lessons Learned
+1. Technical Insights
+   - Importance of modular design
+   - Value of comprehensive testing
+   - Need for sustainable practices
+   - Benefits of documentation
+
+2. Project Management
+   - Team collaboration
+   - Task prioritization
+   - Time management
+   - Resource allocation
+
+### 5. Appendices
+
+#### A. Technical Documentation
+1. System Architecture
+   - Component diagrams
+   - Data flow charts
+   - System interactions
+
+2. Database Schema
+   - Collection structures
+   - Index definitions
+   - Query patterns
+
+3. API Documentation
+   - Endpoint specifications
+   - Authentication methods
+   - Rate limiting rules
+
+#### B. Code Samples
+1. Key Implementations
+   - Scraper modules
+   - Data processors
+   - Error handlers
+
+2. Best Practices
+   - Code organization
+   - Error handling
+   - Logging patterns
+
+### 6. References
+
+1. Technical Documentation
+   - CareerJet API Documentation
+   - MongoDB Documentation
+   - Python Documentation
+   - BeautifulSoup Documentation
+
+2. Industry Standards
+   - Web Scraping Best Practices
+   - Data Collection Ethics
+   - Database Design Principles
+
+3. Government Resources
+   - Australian Government Occupation Lists
+   - Industry Skill Requirements
+   - Educational Frameworks
+
+4. Academic Resources
+   - Web Scraping Research Papers
+   - Data Processing Methodologies
+   - Database Management Systems

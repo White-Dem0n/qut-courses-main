@@ -1,0 +1,35 @@
+2025-05-26 12:51:42,882 - __main__ - INFO - Connected to MongoDB successfully
+2025-05-26 12:51:42,882 - WDM - INFO - ====== WebDriver manager ======
+2025-05-26 12:51:46,071 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:51:46,569 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:51:47,084 - WDM - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-05-26 12:53:05,275 - __main__ - INFO - Connected to MongoDB successfully
+2025-05-26 12:53:05,276 - WDM - INFO - ====== WebDriver manager ======
+2025-05-26 12:53:07,668 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:53:08,171 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:53:08,617 - WDM - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-05-26 12:53:48,354 - __main__ - INFO - Connected to MongoDB successfully
+2025-05-26 12:53:48,355 - __main__ - ERROR - Failed to initialize Chrome WebDriver: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-05-26 12:54:40,636 - __main__ - INFO - Connected to MongoDB successfully
+2025-05-26 12:54:40,636 - WDM - INFO - ====== WebDriver manager ======
+2025-05-26 12:54:43,198 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:54:43,618 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:54:44,041 - WDM - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-05-26 12:54:44,044 - __main__ - ERROR - Failed to initialize Chrome WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-05-26 12:56:42,268 - __main__ - INFO - Connected to MongoDB successfully
+2025-05-26 12:56:42,269 - WDM - INFO - ====== WebDriver manager ======
+2025-05-26 12:56:44,616 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:56:45,037 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:56:45,514 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:56:46,618 - WDM - INFO - WebDriver version 136.0.7103.113 selected
+2025-05-26 12:56:46,625 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-26 12:56:46,625 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-26 12:56:47,175 - WDM - INFO - Driver downloading response is 200
+2025-05-26 12:56:48,117 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 12:56:48,677 - WDM - INFO - Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\136.0.7103.113]
+2025-05-26 12:56:50,804 - __main__ - INFO - Chrome WebDriver initialized successfully
+2025-05-26 12:56:50,805 - __main__ - INFO - Starting to scrape Randstad jobs
+2025-05-26 12:56:50,839 - __main__ - INFO - Scraping page 1: https://www.randstad.com.au/jobs?page=1
+2025-05-26 12:57:11,197 - __main__ - WARNING - Timeout waiting for element: [data-testid="job-card"]
+2025-05-26 12:57:11,197 - __main__ - INFO - No more jobs found on page 1, stopping pagination
+2025-05-26 12:57:13,356 - __main__ - INFO - Completed scraping Randstad. Total jobs found: 0
