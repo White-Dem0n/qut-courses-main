@@ -1,9 +1,0 @@
-# Add your proxy servers here, one per line
-# Format: http://username:password@host:port or http://host:port
-# Example:
-# http://user:pass@proxy1.example.com:8080
-# http://proxy2.example.com:8080
-# https://proxy3.example.com:8443
-
-# Remove the # from the line below and add your proxy
-# http://your-proxy-server:port 
